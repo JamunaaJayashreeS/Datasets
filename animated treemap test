@@ -1,6 +1,6 @@
 state,code,region,year,population
-A. J. Verdelle,DC,South,1,0
-A. J. Verdelle,DC,South,2,0
+A. J. Verdelle,DC,South,1,50
+A. J. Verdelle,DC,South,2,50
 A. J. Verdelle,DC,South,3,57
 A. J. Verdelle,DC,South,4,96
 A. J. Verdelle,DC,South,5,81
@@ -485,19 +485,19 @@ Alice Walker,GA,South,78,34697
 Alice Walker,GA,South,79,37795
 Alice Walker,GA,South,80,54535
 Alice Walker,GA,South,81,3026
-Ann Allen Shockley,KY,South,1,0
-Ann Allen Shockley,KY,South,2,0
-Ann Allen Shockley,KY,South,3,0
-Ann Allen Shockley,KY,South,4,0
-Ann Allen Shockley,KY,South,5,0
-Ann Allen Shockley,KY,South,6,0
-Ann Allen Shockley,KY,South,7,0
-Ann Allen Shockley,KY,South,8,0
-Ann Allen Shockley,KY,South,9,0
-Ann Allen Shockley,KY,South,10,0
-Ann Allen Shockley,KY,South,11,0
-Ann Allen Shockley,KY,South,12,0
-Ann Allen Shockley,KY,South,13,0
+Ann Allen Shockley,KY,South,1,50
+Ann Allen Shockley,KY,South,2,50
+Ann Allen Shockley,KY,South,3,50
+Ann Allen Shockley,KY,South,4,50
+Ann Allen Shockley,KY,South,5,50
+Ann Allen Shockley,KY,South,6,50
+Ann Allen Shockley,KY,South,7,50
+Ann Allen Shockley,KY,South,8,50
+Ann Allen Shockley,KY,South,9,50
+Ann Allen Shockley,KY,South,10,50
+Ann Allen Shockley,KY,South,11,50
+Ann Allen Shockley,KY,South,12,50
+Ann Allen Shockley,KY,South,13,50
 Ann Allen Shockley,KY,South,14,248
 Ann Allen Shockley,KY,South,15,65
 Ann Allen Shockley,KY,South,16,63
@@ -1133,20 +1133,20 @@ Bebe Moore Campbell,PA,Northeast,78,1561
 Bebe Moore Campbell,PA,Northeast,79,3489
 Bebe Moore Campbell,PA,Northeast,80,2900
 Bebe Moore Campbell,PA,Northeast,81,121
-Bernice McFadden,NY,Northeast,1,0
-Bernice McFadden,NY,Northeast,2,0
-Bernice McFadden,NY,Northeast,3,0
-Bernice McFadden,NY,Northeast,4,0
-Bernice McFadden,NY,Northeast,5,0
-Bernice McFadden,NY,Northeast,6,0
-Bernice McFadden,NY,Northeast,7,0
-Bernice McFadden,NY,Northeast,8,0
-Bernice McFadden,NY,Northeast,9,0
-Bernice McFadden,NY,Northeast,10,0
-Bernice McFadden,NY,Northeast,11,0
-Bernice McFadden,NY,Northeast,12,0
-Bernice McFadden,NY,Northeast,13,0
-Bernice McFadden,NY,Northeast,14,0
+Bernice McFadden,NY,Northeast,1,50
+Bernice McFadden,NY,Northeast,2,50
+Bernice McFadden,NY,Northeast,3,50
+Bernice McFadden,NY,Northeast,4,50
+Bernice McFadden,NY,Northeast,5,50
+Bernice McFadden,NY,Northeast,6,50
+Bernice McFadden,NY,Northeast,7,50
+Bernice McFadden,NY,Northeast,8,50
+Bernice McFadden,NY,Northeast,9,50
+Bernice McFadden,NY,Northeast,10,50
+Bernice McFadden,NY,Northeast,11,50
+Bernice McFadden,NY,Northeast,12,50
+Bernice McFadden,NY,Northeast,13,50
+Bernice McFadden,NY,Northeast,14,50
 Bernice McFadden,NY,Northeast,15,14
 Bernice McFadden,NY,Northeast,16,113
 Bernice McFadden,NY,Northeast,17,90
@@ -1214,66 +1214,66 @@ Bernice McFadden,NY,Northeast,78,266
 Bernice McFadden,NY,Northeast,79,338
 Bernice McFadden,NY,Northeast,80,306
 Bernice McFadden,NY,Northeast,81,10
-Brandon Taylor,AL,South,1,0
-Brandon Taylor,AL,South,2,0
-Brandon Taylor,AL,South,3,0
-Brandon Taylor,AL,South,4,0
-Brandon Taylor,AL,South,5,0
-Brandon Taylor,AL,South,6,0
-Brandon Taylor,AL,South,7,0
-Brandon Taylor,AL,South,8,0
-Brandon Taylor,AL,South,9,0
-Brandon Taylor,AL,South,10,0
-Brandon Taylor,AL,South,11,0
-Brandon Taylor,AL,South,12,0
-Brandon Taylor,AL,South,13,0
-Brandon Taylor,AL,South,14,0
-Brandon Taylor,AL,South,15,0
-Brandon Taylor,AL,South,16,0
-Brandon Taylor,AL,South,17,0
-Brandon Taylor,AL,South,18,0
-Brandon Taylor,AL,South,19,0
-Brandon Taylor,AL,South,20,0
-Brandon Taylor,AL,South,21,0
-Brandon Taylor,AL,South,22,0
-Brandon Taylor,AL,South,23,0
-Brandon Taylor,AL,South,24,0
-Brandon Taylor,AL,South,25,0
-Brandon Taylor,AL,South,26,0
-Brandon Taylor,AL,South,27,0
-Brandon Taylor,AL,South,28,0
-Brandon Taylor,AL,South,29,0
-Brandon Taylor,AL,South,30,0
-Brandon Taylor,AL,South,31,0
-Brandon Taylor,AL,South,32,0
-Brandon Taylor,AL,South,33,0
-Brandon Taylor,AL,South,34,0
-Brandon Taylor,AL,South,35,0
-Brandon Taylor,AL,South,36,0
-Brandon Taylor,AL,South,37,0
-Brandon Taylor,AL,South,38,0
-Brandon Taylor,AL,South,39,0
-Brandon Taylor,AL,South,40,0
-Brandon Taylor,AL,South,41,0
-Brandon Taylor,AL,South,42,0
-Brandon Taylor,AL,South,43,0
-Brandon Taylor,AL,South,44,0
-Brandon Taylor,AL,South,45,0
-Brandon Taylor,AL,South,46,0
-Brandon Taylor,AL,South,47,0
-Brandon Taylor,AL,South,48,0
-Brandon Taylor,AL,South,49,0
-Brandon Taylor,AL,South,50,0
-Brandon Taylor,AL,South,51,0
-Brandon Taylor,AL,South,52,0
-Brandon Taylor,AL,South,53,0
-Brandon Taylor,AL,South,54,0
-Brandon Taylor,AL,South,55,0
-Brandon Taylor,AL,South,56,0
-Brandon Taylor,AL,South,57,0
-Brandon Taylor,AL,South,58,0
-Brandon Taylor,AL,South,59,0
-Brandon Taylor,AL,South,60,0
+Brandon Taylor,AL,South,1,50
+Brandon Taylor,AL,South,2,50
+Brandon Taylor,AL,South,3,50
+Brandon Taylor,AL,South,4,50
+Brandon Taylor,AL,South,5,50
+Brandon Taylor,AL,South,6,50
+Brandon Taylor,AL,South,7,50
+Brandon Taylor,AL,South,8,50
+Brandon Taylor,AL,South,9,50
+Brandon Taylor,AL,South,10,50
+Brandon Taylor,AL,South,11,50
+Brandon Taylor,AL,South,12,50
+Brandon Taylor,AL,South,13,50
+Brandon Taylor,AL,South,14,50
+Brandon Taylor,AL,South,15,50
+Brandon Taylor,AL,South,16,50
+Brandon Taylor,AL,South,17,50
+Brandon Taylor,AL,South,18,50
+Brandon Taylor,AL,South,19,50
+Brandon Taylor,AL,South,20,50
+Brandon Taylor,AL,South,21,50
+Brandon Taylor,AL,South,22,50
+Brandon Taylor,AL,South,23,50
+Brandon Taylor,AL,South,24,50
+Brandon Taylor,AL,South,25,50
+Brandon Taylor,AL,South,26,50
+Brandon Taylor,AL,South,27,50
+Brandon Taylor,AL,South,28,50
+Brandon Taylor,AL,South,29,50
+Brandon Taylor,AL,South,30,50
+Brandon Taylor,AL,South,31,50
+Brandon Taylor,AL,South,32,50
+Brandon Taylor,AL,South,33,50
+Brandon Taylor,AL,South,34,50
+Brandon Taylor,AL,South,35,50
+Brandon Taylor,AL,South,36,50
+Brandon Taylor,AL,South,37,50
+Brandon Taylor,AL,South,38,50
+Brandon Taylor,AL,South,39,50
+Brandon Taylor,AL,South,40,50
+Brandon Taylor,AL,South,41,50
+Brandon Taylor,AL,South,42,50
+Brandon Taylor,AL,South,43,50
+Brandon Taylor,AL,South,44,50
+Brandon Taylor,AL,South,45,50
+Brandon Taylor,AL,South,46,50
+Brandon Taylor,AL,South,47,50
+Brandon Taylor,AL,South,48,50
+Brandon Taylor,AL,South,49,50
+Brandon Taylor,AL,South,50,50
+Brandon Taylor,AL,South,51,50
+Brandon Taylor,AL,South,52,50
+Brandon Taylor,AL,South,53,50
+Brandon Taylor,AL,South,54,50
+Brandon Taylor,AL,South,55,50
+Brandon Taylor,AL,South,56,50
+Brandon Taylor,AL,South,57,50
+Brandon Taylor,AL,South,58,50
+Brandon Taylor,AL,South,59,50
+Brandon Taylor,AL,South,60,50
 Brandon Taylor,AL,South,61,2040
 Brandon Taylor,AL,South,62,1715
 Brandon Taylor,AL,South,63,3028
@@ -1295,21 +1295,21 @@ Brandon Taylor,AL,South,78,1695
 Brandon Taylor,AL,South,79,2026
 Brandon Taylor,AL,South,80,1705
 Brandon Taylor,AL,South,81,119
-Brit Bennett,CA,West,1,0
-Brit Bennett,CA,West,2,0
-Brit Bennett,CA,West,3,0
-Brit Bennett,CA,West,4,0
-Brit Bennett,CA,West,5,0
-Brit Bennett,CA,West,6,0
-Brit Bennett,CA,West,7,0
-Brit Bennett,CA,West,8,0
-Brit Bennett,CA,West,9,0
-Brit Bennett,CA,West,10,0
-Brit Bennett,CA,West,11,0
-Brit Bennett,CA,West,12,0
-Brit Bennett,CA,West,13,0
-Brit Bennett,CA,West,14,0
-Brit Bennett,CA,West,15,0
+Brit Bennett,CA,West,1,50
+Brit Bennett,CA,West,2,50
+Brit Bennett,CA,West,3,50
+Brit Bennett,CA,West,4,50
+Brit Bennett,CA,West,5,50
+Brit Bennett,CA,West,6,50
+Brit Bennett,CA,West,7,50
+Brit Bennett,CA,West,8,50
+Brit Bennett,CA,West,9,50
+Brit Bennett,CA,West,10,50
+Brit Bennett,CA,West,11,50
+Brit Bennett,CA,West,12,50
+Brit Bennett,CA,West,13,50
+Brit Bennett,CA,West,14,50
+Brit Bennett,CA,West,15,50
 Brit Bennett,CA,West,16,913
 Brit Bennett,CA,West,17,904
 Brit Bennett,CA,West,18,918
@@ -3239,73 +3239,73 @@ Henry Dumas,IN,Midwest,78,819
 Henry Dumas,IN,Midwest,79,809
 Henry Dumas,IN,Midwest,80,946
 Henry Dumas,IN,Midwest,81,40
-Honore Fanonne Jeffers,TN,South,1,0
-Honore Fanonne Jeffers,TN,South,2,0
-Honore Fanonne Jeffers,TN,South,3,0
-Honore Fanonne Jeffers,TN,South,4,0
-Honore Fanonne Jeffers,TN,South,5,0
-Honore Fanonne Jeffers,TN,South,6,0
-Honore Fanonne Jeffers,TN,South,7,0
-Honore Fanonne Jeffers,TN,South,8,0
-Honore Fanonne Jeffers,TN,South,9,0
-Honore Fanonne Jeffers,TN,South,10,0
-Honore Fanonne Jeffers,TN,South,11,0
-Honore Fanonne Jeffers,TN,South,12,0
-Honore Fanonne Jeffers,TN,South,13,0
-Honore Fanonne Jeffers,TN,South,14,0
-Honore Fanonne Jeffers,TN,South,15,0
-Honore Fanonne Jeffers,TN,South,16,0
-Honore Fanonne Jeffers,TN,South,17,0
-Honore Fanonne Jeffers,TN,South,18,0
-Honore Fanonne Jeffers,TN,South,19,0
-Honore Fanonne Jeffers,TN,South,20,0
-Honore Fanonne Jeffers,TN,South,21,0
-Honore Fanonne Jeffers,TN,South,22,0
-Honore Fanonne Jeffers,TN,South,23,0
-Honore Fanonne Jeffers,TN,South,24,0
-Honore Fanonne Jeffers,TN,South,25,0
-Honore Fanonne Jeffers,TN,South,26,0
-Honore Fanonne Jeffers,TN,South,27,0
-Honore Fanonne Jeffers,TN,South,28,0
-Honore Fanonne Jeffers,TN,South,29,0
-Honore Fanonne Jeffers,TN,South,30,0
-Honore Fanonne Jeffers,TN,South,31,0
-Honore Fanonne Jeffers,TN,South,32,0
-Honore Fanonne Jeffers,TN,South,33,0
-Honore Fanonne Jeffers,TN,South,34,0
-Honore Fanonne Jeffers,TN,South,35,0
-Honore Fanonne Jeffers,TN,South,36,0
-Honore Fanonne Jeffers,TN,South,37,0
-Honore Fanonne Jeffers,TN,South,38,0
-Honore Fanonne Jeffers,TN,South,39,0
-Honore Fanonne Jeffers,TN,South,40,0
-Honore Fanonne Jeffers,TN,South,41,0
-Honore Fanonne Jeffers,TN,South,42,0
-Honore Fanonne Jeffers,TN,South,43,0
-Honore Fanonne Jeffers,TN,South,44,0
-Honore Fanonne Jeffers,TN,South,45,0
-Honore Fanonne Jeffers,TN,South,46,0
-Honore Fanonne Jeffers,TN,South,47,0
-Honore Fanonne Jeffers,TN,South,48,0
-Honore Fanonne Jeffers,TN,South,49,0
-Honore Fanonne Jeffers,TN,South,50,0
-Honore Fanonne Jeffers,TN,South,51,0
-Honore Fanonne Jeffers,TN,South,52,0
-Honore Fanonne Jeffers,TN,South,53,0
-Honore Fanonne Jeffers,TN,South,54,0
-Honore Fanonne Jeffers,TN,South,55,0
-Honore Fanonne Jeffers,TN,South,56,0
-Honore Fanonne Jeffers,TN,South,57,0
-Honore Fanonne Jeffers,TN,South,58,0
-Honore Fanonne Jeffers,TN,South,59,0
-Honore Fanonne Jeffers,TN,South,60,0
-Honore Fanonne Jeffers,TN,South,61,0
-Honore Fanonne Jeffers,TN,South,62,0
-Honore Fanonne Jeffers,TN,South,63,0
-Honore Fanonne Jeffers,TN,South,64,0
-Honore Fanonne Jeffers,TN,South,65,0
-Honore Fanonne Jeffers,TN,South,66,0
-Honore Fanonne Jeffers,TN,South,67,0
+Honore Fanonne Jeffers,TN,South,1,50
+Honore Fanonne Jeffers,TN,South,2,50
+Honore Fanonne Jeffers,TN,South,3,50
+Honore Fanonne Jeffers,TN,South,4,50
+Honore Fanonne Jeffers,TN,South,5,50
+Honore Fanonne Jeffers,TN,South,6,50
+Honore Fanonne Jeffers,TN,South,7,50
+Honore Fanonne Jeffers,TN,South,8,50
+Honore Fanonne Jeffers,TN,South,9,50
+Honore Fanonne Jeffers,TN,South,10,50
+Honore Fanonne Jeffers,TN,South,11,50
+Honore Fanonne Jeffers,TN,South,12,50
+Honore Fanonne Jeffers,TN,South,13,50
+Honore Fanonne Jeffers,TN,South,14,50
+Honore Fanonne Jeffers,TN,South,15,50
+Honore Fanonne Jeffers,TN,South,16,50
+Honore Fanonne Jeffers,TN,South,17,50
+Honore Fanonne Jeffers,TN,South,18,50
+Honore Fanonne Jeffers,TN,South,19,50
+Honore Fanonne Jeffers,TN,South,20,50
+Honore Fanonne Jeffers,TN,South,21,50
+Honore Fanonne Jeffers,TN,South,22,50
+Honore Fanonne Jeffers,TN,South,23,50
+Honore Fanonne Jeffers,TN,South,24,50
+Honore Fanonne Jeffers,TN,South,25,50
+Honore Fanonne Jeffers,TN,South,26,50
+Honore Fanonne Jeffers,TN,South,27,50
+Honore Fanonne Jeffers,TN,South,28,50
+Honore Fanonne Jeffers,TN,South,29,50
+Honore Fanonne Jeffers,TN,South,30,50
+Honore Fanonne Jeffers,TN,South,31,50
+Honore Fanonne Jeffers,TN,South,32,50
+Honore Fanonne Jeffers,TN,South,33,50
+Honore Fanonne Jeffers,TN,South,34,50
+Honore Fanonne Jeffers,TN,South,35,50
+Honore Fanonne Jeffers,TN,South,36,50
+Honore Fanonne Jeffers,TN,South,37,50
+Honore Fanonne Jeffers,TN,South,38,50
+Honore Fanonne Jeffers,TN,South,39,50
+Honore Fanonne Jeffers,TN,South,40,50
+Honore Fanonne Jeffers,TN,South,41,50
+Honore Fanonne Jeffers,TN,South,42,50
+Honore Fanonne Jeffers,TN,South,43,50
+Honore Fanonne Jeffers,TN,South,44,50
+Honore Fanonne Jeffers,TN,South,45,50
+Honore Fanonne Jeffers,TN,South,46,50
+Honore Fanonne Jeffers,TN,South,47,50
+Honore Fanonne Jeffers,TN,South,48,50
+Honore Fanonne Jeffers,TN,South,49,50
+Honore Fanonne Jeffers,TN,South,50,50
+Honore Fanonne Jeffers,TN,South,51,50
+Honore Fanonne Jeffers,TN,South,52,50
+Honore Fanonne Jeffers,TN,South,53,50
+Honore Fanonne Jeffers,TN,South,54,50
+Honore Fanonne Jeffers,TN,South,55,50
+Honore Fanonne Jeffers,TN,South,56,50
+Honore Fanonne Jeffers,TN,South,57,50
+Honore Fanonne Jeffers,TN,South,58,50
+Honore Fanonne Jeffers,TN,South,59,50
+Honore Fanonne Jeffers,TN,South,60,50
+Honore Fanonne Jeffers,TN,South,61,50
+Honore Fanonne Jeffers,TN,South,62,50
+Honore Fanonne Jeffers,TN,South,63,50
+Honore Fanonne Jeffers,TN,South,64,50
+Honore Fanonne Jeffers,TN,South,65,50
+Honore Fanonne Jeffers,TN,South,66,50
+Honore Fanonne Jeffers,TN,South,67,50
 Honore Fanonne Jeffers,TN,South,68,267
 Honore Fanonne Jeffers,TN,South,69,1564
 Honore Fanonne Jeffers,TN,South,70,249
@@ -4372,7 +4372,7 @@ John A. Williams,DC,South,77,12
 John A. Williams,DC,South,78,11
 John A. Williams,DC,South,79,7
 John A. Williams,DC,South,80,8
-John A. Williams,DC,South,81,0
+John A. Williams,DC,South,81,50
 John Edgar Wideman,GA,South,1,1255
 John Edgar Wideman,GA,South,2,1056
 John Edgar Wideman,GA,South,3,1122
@@ -4535,60 +4535,60 @@ John Oliver Killens,MA,Northeast,78,287
 John Oliver Killens,MA,Northeast,79,456
 John Oliver Killens,MA,Northeast,80,516
 John Oliver Killens,MA,Northeast,81,16
-Kaitlyn Greenidge,NY,Northeast,1,0
-Kaitlyn Greenidge,NY,Northeast,2,0
-Kaitlyn Greenidge,NY,Northeast,3,0
-Kaitlyn Greenidge,NY,Northeast,4,0
-Kaitlyn Greenidge,NY,Northeast,5,0
-Kaitlyn Greenidge,NY,Northeast,6,0
-Kaitlyn Greenidge,NY,Northeast,7,0
-Kaitlyn Greenidge,NY,Northeast,8,0
-Kaitlyn Greenidge,NY,Northeast,9,0
-Kaitlyn Greenidge,NY,Northeast,10,0
-Kaitlyn Greenidge,NY,Northeast,11,0
-Kaitlyn Greenidge,NY,Northeast,12,0
-Kaitlyn Greenidge,NY,Northeast,13,0
-Kaitlyn Greenidge,NY,Northeast,14,0
-Kaitlyn Greenidge,NY,Northeast,15,0
-Kaitlyn Greenidge,NY,Northeast,16,0
-Kaitlyn Greenidge,NY,Northeast,17,0
-Kaitlyn Greenidge,NY,Northeast,18,0
-Kaitlyn Greenidge,NY,Northeast,19,0
-Kaitlyn Greenidge,NY,Northeast,20,0
-Kaitlyn Greenidge,NY,Northeast,21,0
-Kaitlyn Greenidge,NY,Northeast,22,0
-Kaitlyn Greenidge,NY,Northeast,23,0
-Kaitlyn Greenidge,NY,Northeast,24,0
-Kaitlyn Greenidge,NY,Northeast,25,0
-Kaitlyn Greenidge,NY,Northeast,26,0
-Kaitlyn Greenidge,NY,Northeast,27,0
-Kaitlyn Greenidge,NY,Northeast,28,0
-Kaitlyn Greenidge,NY,Northeast,29,0
-Kaitlyn Greenidge,NY,Northeast,30,0
-Kaitlyn Greenidge,NY,Northeast,31,0
-Kaitlyn Greenidge,NY,Northeast,32,0
-Kaitlyn Greenidge,NY,Northeast,33,0
-Kaitlyn Greenidge,NY,Northeast,34,0
-Kaitlyn Greenidge,NY,Northeast,35,0
-Kaitlyn Greenidge,NY,Northeast,36,0
-Kaitlyn Greenidge,NY,Northeast,37,0
-Kaitlyn Greenidge,NY,Northeast,38,0
-Kaitlyn Greenidge,NY,Northeast,39,0
-Kaitlyn Greenidge,NY,Northeast,40,0
-Kaitlyn Greenidge,NY,Northeast,41,0
-Kaitlyn Greenidge,NY,Northeast,42,0
-Kaitlyn Greenidge,NY,Northeast,43,0
-Kaitlyn Greenidge,NY,Northeast,44,0
-Kaitlyn Greenidge,NY,Northeast,45,0
-Kaitlyn Greenidge,NY,Northeast,46,0
-Kaitlyn Greenidge,NY,Northeast,47,0
-Kaitlyn Greenidge,NY,Northeast,48,0
-Kaitlyn Greenidge,NY,Northeast,49,0
-Kaitlyn Greenidge,NY,Northeast,50,0
-Kaitlyn Greenidge,NY,Northeast,51,0
-Kaitlyn Greenidge,NY,Northeast,52,0
-Kaitlyn Greenidge,NY,Northeast,53,0
-Kaitlyn Greenidge,NY,Northeast,54,0
+Kaitlyn Greenidge,NY,Northeast,1,50
+Kaitlyn Greenidge,NY,Northeast,2,50
+Kaitlyn Greenidge,NY,Northeast,3,50
+Kaitlyn Greenidge,NY,Northeast,4,50
+Kaitlyn Greenidge,NY,Northeast,5,50
+Kaitlyn Greenidge,NY,Northeast,6,50
+Kaitlyn Greenidge,NY,Northeast,7,50
+Kaitlyn Greenidge,NY,Northeast,8,50
+Kaitlyn Greenidge,NY,Northeast,9,50
+Kaitlyn Greenidge,NY,Northeast,10,50
+Kaitlyn Greenidge,NY,Northeast,11,50
+Kaitlyn Greenidge,NY,Northeast,12,50
+Kaitlyn Greenidge,NY,Northeast,13,50
+Kaitlyn Greenidge,NY,Northeast,14,50
+Kaitlyn Greenidge,NY,Northeast,15,50
+Kaitlyn Greenidge,NY,Northeast,16,50
+Kaitlyn Greenidge,NY,Northeast,17,50
+Kaitlyn Greenidge,NY,Northeast,18,50
+Kaitlyn Greenidge,NY,Northeast,19,50
+Kaitlyn Greenidge,NY,Northeast,20,50
+Kaitlyn Greenidge,NY,Northeast,21,50
+Kaitlyn Greenidge,NY,Northeast,22,50
+Kaitlyn Greenidge,NY,Northeast,23,50
+Kaitlyn Greenidge,NY,Northeast,24,50
+Kaitlyn Greenidge,NY,Northeast,25,50
+Kaitlyn Greenidge,NY,Northeast,26,50
+Kaitlyn Greenidge,NY,Northeast,27,50
+Kaitlyn Greenidge,NY,Northeast,28,50
+Kaitlyn Greenidge,NY,Northeast,29,50
+Kaitlyn Greenidge,NY,Northeast,30,50
+Kaitlyn Greenidge,NY,Northeast,31,50
+Kaitlyn Greenidge,NY,Northeast,32,50
+Kaitlyn Greenidge,NY,Northeast,33,50
+Kaitlyn Greenidge,NY,Northeast,34,50
+Kaitlyn Greenidge,NY,Northeast,35,50
+Kaitlyn Greenidge,NY,Northeast,36,50
+Kaitlyn Greenidge,NY,Northeast,37,50
+Kaitlyn Greenidge,NY,Northeast,38,50
+Kaitlyn Greenidge,NY,Northeast,39,50
+Kaitlyn Greenidge,NY,Northeast,40,50
+Kaitlyn Greenidge,NY,Northeast,41,50
+Kaitlyn Greenidge,NY,Northeast,42,50
+Kaitlyn Greenidge,NY,Northeast,43,50
+Kaitlyn Greenidge,NY,Northeast,44,50
+Kaitlyn Greenidge,NY,Northeast,45,50
+Kaitlyn Greenidge,NY,Northeast,46,50
+Kaitlyn Greenidge,NY,Northeast,47,50
+Kaitlyn Greenidge,NY,Northeast,48,50
+Kaitlyn Greenidge,NY,Northeast,49,50
+Kaitlyn Greenidge,NY,Northeast,50,50
+Kaitlyn Greenidge,NY,Northeast,51,50
+Kaitlyn Greenidge,NY,Northeast,52,50
+Kaitlyn Greenidge,NY,Northeast,53,50
+Kaitlyn Greenidge,NY,Northeast,54,50
 Kaitlyn Greenidge,NY,Northeast,55,58
 Kaitlyn Greenidge,NY,Northeast,56,170
 Kaitlyn Greenidge,NY,Northeast,57,155
@@ -4940,59 +4940,59 @@ Kiese Laymon,CA,West,78,2603
 Kiese Laymon,CA,West,79,2968
 Kiese Laymon,CA,West,80,4238
 Kiese Laymon,CA,West,81,187
-Kiley Reid,MO,Midwest,1,0
-Kiley Reid,MO,Midwest,2,0
-Kiley Reid,MO,Midwest,3,0
-Kiley Reid,MO,Midwest,4,0
-Kiley Reid,MO,Midwest,5,0
-Kiley Reid,MO,Midwest,6,0
-Kiley Reid,MO,Midwest,7,0
-Kiley Reid,MO,Midwest,8,0
-Kiley Reid,MO,Midwest,9,0
-Kiley Reid,MO,Midwest,10,0
-Kiley Reid,MO,Midwest,11,0
-Kiley Reid,MO,Midwest,12,0
-Kiley Reid,MO,Midwest,13,0
-Kiley Reid,MO,Midwest,14,0
-Kiley Reid,MO,Midwest,15,0
-Kiley Reid,MO,Midwest,16,0
-Kiley Reid,MO,Midwest,17,0
-Kiley Reid,MO,Midwest,18,0
-Kiley Reid,MO,Midwest,19,0
-Kiley Reid,MO,Midwest,20,0
-Kiley Reid,MO,Midwest,21,0
-Kiley Reid,MO,Midwest,22,0
-Kiley Reid,MO,Midwest,23,0
-Kiley Reid,MO,Midwest,24,0
-Kiley Reid,MO,Midwest,25,0
-Kiley Reid,MO,Midwest,26,0
-Kiley Reid,MO,Midwest,27,0
-Kiley Reid,MO,Midwest,28,0
-Kiley Reid,MO,Midwest,29,0
-Kiley Reid,MO,Midwest,30,0
-Kiley Reid,MO,Midwest,31,0
-Kiley Reid,MO,Midwest,32,0
-Kiley Reid,MO,Midwest,33,0
-Kiley Reid,MO,Midwest,34,0
-Kiley Reid,MO,Midwest,35,0
-Kiley Reid,MO,Midwest,36,0
-Kiley Reid,MO,Midwest,37,0
-Kiley Reid,MO,Midwest,38,0
-Kiley Reid,MO,Midwest,39,0
-Kiley Reid,MO,Midwest,40,0
-Kiley Reid,MO,Midwest,41,0
-Kiley Reid,MO,Midwest,42,0
-Kiley Reid,MO,Midwest,43,0
-Kiley Reid,MO,Midwest,44,0
-Kiley Reid,MO,Midwest,45,0
-Kiley Reid,MO,Midwest,46,0
-Kiley Reid,MO,Midwest,47,0
-Kiley Reid,MO,Midwest,48,0
-Kiley Reid,MO,Midwest,49,0
-Kiley Reid,MO,Midwest,50,0
-Kiley Reid,MO,Midwest,51,0
-Kiley Reid,MO,Midwest,52,0
-Kiley Reid,MO,Midwest,53,0
+Kiley Reid,MO,Midwest,1,50
+Kiley Reid,MO,Midwest,2,50
+Kiley Reid,MO,Midwest,3,50
+Kiley Reid,MO,Midwest,4,50
+Kiley Reid,MO,Midwest,5,50
+Kiley Reid,MO,Midwest,6,50
+Kiley Reid,MO,Midwest,7,50
+Kiley Reid,MO,Midwest,8,50
+Kiley Reid,MO,Midwest,9,50
+Kiley Reid,MO,Midwest,10,50
+Kiley Reid,MO,Midwest,11,50
+Kiley Reid,MO,Midwest,12,50
+Kiley Reid,MO,Midwest,13,50
+Kiley Reid,MO,Midwest,14,50
+Kiley Reid,MO,Midwest,15,50
+Kiley Reid,MO,Midwest,16,50
+Kiley Reid,MO,Midwest,17,50
+Kiley Reid,MO,Midwest,18,50
+Kiley Reid,MO,Midwest,19,50
+Kiley Reid,MO,Midwest,20,50
+Kiley Reid,MO,Midwest,21,50
+Kiley Reid,MO,Midwest,22,50
+Kiley Reid,MO,Midwest,23,50
+Kiley Reid,MO,Midwest,24,50
+Kiley Reid,MO,Midwest,25,50
+Kiley Reid,MO,Midwest,26,50
+Kiley Reid,MO,Midwest,27,50
+Kiley Reid,MO,Midwest,28,50
+Kiley Reid,MO,Midwest,29,50
+Kiley Reid,MO,Midwest,30,50
+Kiley Reid,MO,Midwest,31,50
+Kiley Reid,MO,Midwest,32,50
+Kiley Reid,MO,Midwest,33,50
+Kiley Reid,MO,Midwest,34,50
+Kiley Reid,MO,Midwest,35,50
+Kiley Reid,MO,Midwest,36,50
+Kiley Reid,MO,Midwest,37,50
+Kiley Reid,MO,Midwest,38,50
+Kiley Reid,MO,Midwest,39,50
+Kiley Reid,MO,Midwest,40,50
+Kiley Reid,MO,Midwest,41,50
+Kiley Reid,MO,Midwest,42,50
+Kiley Reid,MO,Midwest,43,50
+Kiley Reid,MO,Midwest,44,50
+Kiley Reid,MO,Midwest,45,50
+Kiley Reid,MO,Midwest,46,50
+Kiley Reid,MO,Midwest,47,50
+Kiley Reid,MO,Midwest,48,50
+Kiley Reid,MO,Midwest,49,50
+Kiley Reid,MO,Midwest,50,50
+Kiley Reid,MO,Midwest,51,50
+Kiley Reid,MO,Midwest,52,50
+Kiley Reid,MO,Midwest,53,50
 Kiley Reid,MO,Midwest,54,245
 Kiley Reid,MO,Midwest,55,4996
 Kiley Reid,MO,Midwest,56,10331
@@ -5831,64 +5831,64 @@ Melvin Dixon,NJ,Northeast,78,136
 Melvin Dixon,NJ,Northeast,79,188
 Melvin Dixon,NJ,Northeast,80,253
 Melvin Dixon,NJ,Northeast,81,18
-Morgan Jerkins,IA,Midwest,1,0
-Morgan Jerkins,IA,Midwest,2,0
-Morgan Jerkins,IA,Midwest,3,0
-Morgan Jerkins,IA,Midwest,4,0
-Morgan Jerkins,IA,Midwest,5,0
-Morgan Jerkins,IA,Midwest,6,0
-Morgan Jerkins,IA,Midwest,7,0
-Morgan Jerkins,IA,Midwest,8,0
-Morgan Jerkins,IA,Midwest,9,0
-Morgan Jerkins,IA,Midwest,10,0
-Morgan Jerkins,IA,Midwest,11,0
-Morgan Jerkins,IA,Midwest,12,0
-Morgan Jerkins,IA,Midwest,13,0
-Morgan Jerkins,IA,Midwest,14,0
-Morgan Jerkins,IA,Midwest,15,0
-Morgan Jerkins,IA,Midwest,16,0
-Morgan Jerkins,IA,Midwest,17,0
-Morgan Jerkins,IA,Midwest,18,0
-Morgan Jerkins,IA,Midwest,19,0
-Morgan Jerkins,IA,Midwest,20,0
-Morgan Jerkins,IA,Midwest,21,0
-Morgan Jerkins,IA,Midwest,22,0
-Morgan Jerkins,IA,Midwest,23,0
-Morgan Jerkins,IA,Midwest,24,0
-Morgan Jerkins,IA,Midwest,25,0
-Morgan Jerkins,IA,Midwest,26,0
-Morgan Jerkins,IA,Midwest,27,0
-Morgan Jerkins,IA,Midwest,28,0
-Morgan Jerkins,IA,Midwest,29,0
-Morgan Jerkins,IA,Midwest,30,0
-Morgan Jerkins,IA,Midwest,31,0
-Morgan Jerkins,IA,Midwest,32,0
-Morgan Jerkins,IA,Midwest,33,0
-Morgan Jerkins,IA,Midwest,34,0
-Morgan Jerkins,IA,Midwest,35,0
-Morgan Jerkins,IA,Midwest,36,0
-Morgan Jerkins,IA,Midwest,37,0
-Morgan Jerkins,IA,Midwest,38,0
-Morgan Jerkins,IA,Midwest,39,0
-Morgan Jerkins,IA,Midwest,40,0
-Morgan Jerkins,IA,Midwest,41,0
-Morgan Jerkins,IA,Midwest,42,0
-Morgan Jerkins,IA,Midwest,43,0
-Morgan Jerkins,IA,Midwest,44,0
-Morgan Jerkins,IA,Midwest,45,0
-Morgan Jerkins,IA,Midwest,46,0
-Morgan Jerkins,IA,Midwest,47,0
-Morgan Jerkins,IA,Midwest,48,0
-Morgan Jerkins,IA,Midwest,49,0
-Morgan Jerkins,IA,Midwest,50,0
-Morgan Jerkins,IA,Midwest,51,0
-Morgan Jerkins,IA,Midwest,52,0
-Morgan Jerkins,IA,Midwest,53,0
-Morgan Jerkins,IA,Midwest,54,0
-Morgan Jerkins,IA,Midwest,55,0
-Morgan Jerkins,IA,Midwest,56,0
-Morgan Jerkins,IA,Midwest,57,0
-Morgan Jerkins,IA,Midwest,58,0
+Morgan Jerkins,IA,Midwest,1,50
+Morgan Jerkins,IA,Midwest,2,50
+Morgan Jerkins,IA,Midwest,3,50
+Morgan Jerkins,IA,Midwest,4,50
+Morgan Jerkins,IA,Midwest,5,50
+Morgan Jerkins,IA,Midwest,6,50
+Morgan Jerkins,IA,Midwest,7,50
+Morgan Jerkins,IA,Midwest,8,50
+Morgan Jerkins,IA,Midwest,9,50
+Morgan Jerkins,IA,Midwest,10,50
+Morgan Jerkins,IA,Midwest,11,50
+Morgan Jerkins,IA,Midwest,12,50
+Morgan Jerkins,IA,Midwest,13,50
+Morgan Jerkins,IA,Midwest,14,50
+Morgan Jerkins,IA,Midwest,15,50
+Morgan Jerkins,IA,Midwest,16,50
+Morgan Jerkins,IA,Midwest,17,50
+Morgan Jerkins,IA,Midwest,18,50
+Morgan Jerkins,IA,Midwest,19,50
+Morgan Jerkins,IA,Midwest,20,50
+Morgan Jerkins,IA,Midwest,21,50
+Morgan Jerkins,IA,Midwest,22,50
+Morgan Jerkins,IA,Midwest,23,50
+Morgan Jerkins,IA,Midwest,24,50
+Morgan Jerkins,IA,Midwest,25,50
+Morgan Jerkins,IA,Midwest,26,50
+Morgan Jerkins,IA,Midwest,27,50
+Morgan Jerkins,IA,Midwest,28,50
+Morgan Jerkins,IA,Midwest,29,50
+Morgan Jerkins,IA,Midwest,30,50
+Morgan Jerkins,IA,Midwest,31,50
+Morgan Jerkins,IA,Midwest,32,50
+Morgan Jerkins,IA,Midwest,33,50
+Morgan Jerkins,IA,Midwest,34,50
+Morgan Jerkins,IA,Midwest,35,50
+Morgan Jerkins,IA,Midwest,36,50
+Morgan Jerkins,IA,Midwest,37,50
+Morgan Jerkins,IA,Midwest,38,50
+Morgan Jerkins,IA,Midwest,39,50
+Morgan Jerkins,IA,Midwest,40,50
+Morgan Jerkins,IA,Midwest,41,50
+Morgan Jerkins,IA,Midwest,42,50
+Morgan Jerkins,IA,Midwest,43,50
+Morgan Jerkins,IA,Midwest,44,50
+Morgan Jerkins,IA,Midwest,45,50
+Morgan Jerkins,IA,Midwest,46,50
+Morgan Jerkins,IA,Midwest,47,50
+Morgan Jerkins,IA,Midwest,48,50
+Morgan Jerkins,IA,Midwest,49,50
+Morgan Jerkins,IA,Midwest,50,50
+Morgan Jerkins,IA,Midwest,51,50
+Morgan Jerkins,IA,Midwest,52,50
+Morgan Jerkins,IA,Midwest,53,50
+Morgan Jerkins,IA,Midwest,54,50
+Morgan Jerkins,IA,Midwest,55,50
+Morgan Jerkins,IA,Midwest,56,50
+Morgan Jerkins,IA,Midwest,57,50
+Morgan Jerkins,IA,Midwest,58,50
 Morgan Jerkins,IA,Midwest,59,35
 Morgan Jerkins,IA,Midwest,60,398
 Morgan Jerkins,IA,Midwest,61,641
@@ -6155,54 +6155,54 @@ Nichelle Tramble Spellman,CA,West,78,1187
 Nichelle Tramble Spellman,CA,West,79,1388
 Nichelle Tramble Spellman,CA,West,80,1522
 Nichelle Tramble Spellman,CA,West,81,147
-NK Jemisin,NJ,Northeast,1,0
-NK Jemisin,NJ,Northeast,2,0
-NK Jemisin,NJ,Northeast,3,0
-NK Jemisin,NJ,Northeast,4,0
-NK Jemisin,NJ,Northeast,5,0
-NK Jemisin,NJ,Northeast,6,0
-NK Jemisin,NJ,Northeast,7,0
-NK Jemisin,NJ,Northeast,8,0
-NK Jemisin,NJ,Northeast,9,0
-NK Jemisin,NJ,Northeast,10,0
-NK Jemisin,NJ,Northeast,11,0
-NK Jemisin,NJ,Northeast,12,0
-NK Jemisin,NJ,Northeast,13,0
-NK Jemisin,NJ,Northeast,14,0
-NK Jemisin,NJ,Northeast,15,0
-NK Jemisin,NJ,Northeast,16,0
-NK Jemisin,NJ,Northeast,17,0
-NK Jemisin,NJ,Northeast,18,0
-NK Jemisin,NJ,Northeast,19,0
-NK Jemisin,NJ,Northeast,20,0
-NK Jemisin,NJ,Northeast,21,0
-NK Jemisin,NJ,Northeast,22,0
-NK Jemisin,NJ,Northeast,23,0
-NK Jemisin,NJ,Northeast,24,0
-NK Jemisin,NJ,Northeast,25,0
-NK Jemisin,NJ,Northeast,26,0
-NK Jemisin,NJ,Northeast,27,0
-NK Jemisin,NJ,Northeast,28,0
-NK Jemisin,NJ,Northeast,29,0
-NK Jemisin,NJ,Northeast,30,0
-NK Jemisin,NJ,Northeast,31,0
-NK Jemisin,NJ,Northeast,32,0
-NK Jemisin,NJ,Northeast,33,0
-NK Jemisin,NJ,Northeast,34,0
-NK Jemisin,NJ,Northeast,35,0
-NK Jemisin,NJ,Northeast,36,0
-NK Jemisin,NJ,Northeast,37,0
-NK Jemisin,NJ,Northeast,38,0
-NK Jemisin,NJ,Northeast,39,0
-NK Jemisin,NJ,Northeast,40,0
-NK Jemisin,NJ,Northeast,41,0
-NK Jemisin,NJ,Northeast,42,0
-NK Jemisin,NJ,Northeast,43,0
-NK Jemisin,NJ,Northeast,44,0
-NK Jemisin,NJ,Northeast,45,0
-NK Jemisin,NJ,Northeast,46,0
-NK Jemisin,NJ,Northeast,47,0
-NK Jemisin,NJ,Northeast,48,0
+NK Jemisin,NJ,Northeast,1,50
+NK Jemisin,NJ,Northeast,2,50
+NK Jemisin,NJ,Northeast,3,50
+NK Jemisin,NJ,Northeast,4,50
+NK Jemisin,NJ,Northeast,5,50
+NK Jemisin,NJ,Northeast,6,50
+NK Jemisin,NJ,Northeast,7,50
+NK Jemisin,NJ,Northeast,8,50
+NK Jemisin,NJ,Northeast,9,50
+NK Jemisin,NJ,Northeast,10,50
+NK Jemisin,NJ,Northeast,11,50
+NK Jemisin,NJ,Northeast,12,50
+NK Jemisin,NJ,Northeast,13,50
+NK Jemisin,NJ,Northeast,14,50
+NK Jemisin,NJ,Northeast,15,50
+NK Jemisin,NJ,Northeast,16,50
+NK Jemisin,NJ,Northeast,17,50
+NK Jemisin,NJ,Northeast,18,50
+NK Jemisin,NJ,Northeast,19,50
+NK Jemisin,NJ,Northeast,20,50
+NK Jemisin,NJ,Northeast,21,50
+NK Jemisin,NJ,Northeast,22,50
+NK Jemisin,NJ,Northeast,23,50
+NK Jemisin,NJ,Northeast,24,50
+NK Jemisin,NJ,Northeast,25,50
+NK Jemisin,NJ,Northeast,26,50
+NK Jemisin,NJ,Northeast,27,50
+NK Jemisin,NJ,Northeast,28,50
+NK Jemisin,NJ,Northeast,29,50
+NK Jemisin,NJ,Northeast,30,50
+NK Jemisin,NJ,Northeast,31,50
+NK Jemisin,NJ,Northeast,32,50
+NK Jemisin,NJ,Northeast,33,50
+NK Jemisin,NJ,Northeast,34,50
+NK Jemisin,NJ,Northeast,35,50
+NK Jemisin,NJ,Northeast,36,50
+NK Jemisin,NJ,Northeast,37,50
+NK Jemisin,NJ,Northeast,38,50
+NK Jemisin,NJ,Northeast,39,50
+NK Jemisin,NJ,Northeast,40,50
+NK Jemisin,NJ,Northeast,41,50
+NK Jemisin,NJ,Northeast,42,50
+NK Jemisin,NJ,Northeast,43,50
+NK Jemisin,NJ,Northeast,44,50
+NK Jemisin,NJ,Northeast,45,50
+NK Jemisin,NJ,Northeast,46,50
+NK Jemisin,NJ,Northeast,47,50
+NK Jemisin,NJ,Northeast,48,50
 NK Jemisin,NJ,Northeast,49,129
 NK Jemisin,NJ,Northeast,50,331
 NK Jemisin,NJ,Northeast,51,293
@@ -6478,7 +6478,7 @@ Olympia Vernon,IL,Midwest,77,43
 Olympia Vernon,IL,Midwest,78,26
 Olympia Vernon,IL,Midwest,79,63
 Olympia Vernon,IL,Midwest,80,67
-Olympia Vernon,IL,Midwest,81,0
+Olympia Vernon,IL,Midwest,81,50
 Oscar Micheaux,CA,West,1,2705
 Oscar Micheaux,CA,West,2,2793
 Oscar Micheaux,CA,West,3,3440
@@ -7127,67 +7127,67 @@ Ralph Ellison,NY,Northeast,78,10121
 Ralph Ellison,NY,Northeast,79,12459
 Ralph Ellison,NY,Northeast,80,16694
 Ralph Ellison,NY,Northeast,81,1513
-Raven Leilani,GA,South,1,0
-Raven Leilani,GA,South,2,0
-Raven Leilani,GA,South,3,0
-Raven Leilani,GA,South,4,0
-Raven Leilani,GA,South,5,0
-Raven Leilani,GA,South,6,0
-Raven Leilani,GA,South,7,0
-Raven Leilani,GA,South,8,0
-Raven Leilani,GA,South,9,0
-Raven Leilani,GA,South,10,0
-Raven Leilani,GA,South,11,0
-Raven Leilani,GA,South,12,0
-Raven Leilani,GA,South,13,0
-Raven Leilani,GA,South,14,0
-Raven Leilani,GA,South,15,0
-Raven Leilani,GA,South,16,0
-Raven Leilani,GA,South,17,0
-Raven Leilani,GA,South,18,0
-Raven Leilani,GA,South,19,0
-Raven Leilani,GA,South,20,0
-Raven Leilani,GA,South,21,0
-Raven Leilani,GA,South,22,0
-Raven Leilani,GA,South,23,0
-Raven Leilani,GA,South,24,0
-Raven Leilani,GA,South,25,0
-Raven Leilani,GA,South,26,0
-Raven Leilani,GA,South,27,0
-Raven Leilani,GA,South,28,0
-Raven Leilani,GA,South,29,0
-Raven Leilani,GA,South,30,0
-Raven Leilani,GA,South,31,0
-Raven Leilani,GA,South,32,0
-Raven Leilani,GA,South,33,0
-Raven Leilani,GA,South,34,0
-Raven Leilani,GA,South,35,0
-Raven Leilani,GA,South,36,0
-Raven Leilani,GA,South,37,0
-Raven Leilani,GA,South,38,0
-Raven Leilani,GA,South,39,0
-Raven Leilani,GA,South,40,0
-Raven Leilani,GA,South,41,0
-Raven Leilani,GA,South,42,0
-Raven Leilani,GA,South,43,0
-Raven Leilani,GA,South,44,0
-Raven Leilani,GA,South,45,0
-Raven Leilani,GA,South,46,0
-Raven Leilani,GA,South,47,0
-Raven Leilani,GA,South,48,0
-Raven Leilani,GA,South,49,0
-Raven Leilani,GA,South,50,0
-Raven Leilani,GA,South,51,0
-Raven Leilani,GA,South,52,0
-Raven Leilani,GA,South,53,0
-Raven Leilani,GA,South,54,0
-Raven Leilani,GA,South,55,0
-Raven Leilani,GA,South,56,0
-Raven Leilani,GA,South,57,0
-Raven Leilani,GA,South,58,0
-Raven Leilani,GA,South,59,0
-Raven Leilani,GA,South,60,0
-Raven Leilani,GA,South,61,0
+Raven Leilani,GA,South,1,50
+Raven Leilani,GA,South,2,50
+Raven Leilani,GA,South,3,50
+Raven Leilani,GA,South,4,50
+Raven Leilani,GA,South,5,50
+Raven Leilani,GA,South,6,50
+Raven Leilani,GA,South,7,50
+Raven Leilani,GA,South,8,50
+Raven Leilani,GA,South,9,50
+Raven Leilani,GA,South,10,50
+Raven Leilani,GA,South,11,50
+Raven Leilani,GA,South,12,50
+Raven Leilani,GA,South,13,50
+Raven Leilani,GA,South,14,50
+Raven Leilani,GA,South,15,50
+Raven Leilani,GA,South,16,50
+Raven Leilani,GA,South,17,50
+Raven Leilani,GA,South,18,50
+Raven Leilani,GA,South,19,50
+Raven Leilani,GA,South,20,50
+Raven Leilani,GA,South,21,50
+Raven Leilani,GA,South,22,50
+Raven Leilani,GA,South,23,50
+Raven Leilani,GA,South,24,50
+Raven Leilani,GA,South,25,50
+Raven Leilani,GA,South,26,50
+Raven Leilani,GA,South,27,50
+Raven Leilani,GA,South,28,50
+Raven Leilani,GA,South,29,50
+Raven Leilani,GA,South,30,50
+Raven Leilani,GA,South,31,50
+Raven Leilani,GA,South,32,50
+Raven Leilani,GA,South,33,50
+Raven Leilani,GA,South,34,50
+Raven Leilani,GA,South,35,50
+Raven Leilani,GA,South,36,50
+Raven Leilani,GA,South,37,50
+Raven Leilani,GA,South,38,50
+Raven Leilani,GA,South,39,50
+Raven Leilani,GA,South,40,50
+Raven Leilani,GA,South,41,50
+Raven Leilani,GA,South,42,50
+Raven Leilani,GA,South,43,50
+Raven Leilani,GA,South,44,50
+Raven Leilani,GA,South,45,50
+Raven Leilani,GA,South,46,50
+Raven Leilani,GA,South,47,50
+Raven Leilani,GA,South,48,50
+Raven Leilani,GA,South,49,50
+Raven Leilani,GA,South,50,50
+Raven Leilani,GA,South,51,50
+Raven Leilani,GA,South,52,50
+Raven Leilani,GA,South,53,50
+Raven Leilani,GA,South,54,50
+Raven Leilani,GA,South,55,50
+Raven Leilani,GA,South,56,50
+Raven Leilani,GA,South,57,50
+Raven Leilani,GA,South,58,50
+Raven Leilani,GA,South,59,50
+Raven Leilani,GA,South,60,50
+Raven Leilani,GA,South,61,50
 Raven Leilani,GA,South,62,3567
 Raven Leilani,GA,South,63,2898
 Raven Leilani,GA,South,64,2649
@@ -7370,42 +7370,42 @@ Richard Wright,CA,West,78,12105
 Richard Wright,CA,West,79,15109
 Richard Wright,CA,West,80,20314
 Richard Wright,CA,West,81,1167
-Rivers Solomon,VA,South,1,0
-Rivers Solomon,VA,South,2,0
-Rivers Solomon,VA,South,3,0
-Rivers Solomon,VA,South,4,0
-Rivers Solomon,VA,South,5,0
-Rivers Solomon,VA,South,6,0
-Rivers Solomon,VA,South,7,0
-Rivers Solomon,VA,South,8,0
-Rivers Solomon,VA,South,9,0
-Rivers Solomon,VA,South,10,0
-Rivers Solomon,VA,South,11,0
-Rivers Solomon,VA,South,12,0
-Rivers Solomon,VA,South,13,0
-Rivers Solomon,VA,South,14,0
-Rivers Solomon,VA,South,15,0
-Rivers Solomon,VA,South,16,0
-Rivers Solomon,VA,South,17,0
-Rivers Solomon,VA,South,18,0
-Rivers Solomon,VA,South,19,0
-Rivers Solomon,VA,South,20,0
-Rivers Solomon,VA,South,21,0
-Rivers Solomon,VA,South,22,0
-Rivers Solomon,VA,South,23,0
-Rivers Solomon,VA,South,24,0
-Rivers Solomon,VA,South,25,0
-Rivers Solomon,VA,South,26,0
-Rivers Solomon,VA,South,27,0
-Rivers Solomon,VA,South,28,0
-Rivers Solomon,VA,South,29,0
-Rivers Solomon,VA,South,30,0
-Rivers Solomon,VA,South,31,0
-Rivers Solomon,VA,South,32,0
-Rivers Solomon,VA,South,33,0
-Rivers Solomon,VA,South,34,0
-Rivers Solomon,VA,South,35,0
-Rivers Solomon,VA,South,36,0
+Rivers Solomon,VA,South,1,50
+Rivers Solomon,VA,South,2,50
+Rivers Solomon,VA,South,3,50
+Rivers Solomon,VA,South,4,50
+Rivers Solomon,VA,South,5,50
+Rivers Solomon,VA,South,6,50
+Rivers Solomon,VA,South,7,50
+Rivers Solomon,VA,South,8,50
+Rivers Solomon,VA,South,9,50
+Rivers Solomon,VA,South,10,50
+Rivers Solomon,VA,South,11,50
+Rivers Solomon,VA,South,12,50
+Rivers Solomon,VA,South,13,50
+Rivers Solomon,VA,South,14,50
+Rivers Solomon,VA,South,15,50
+Rivers Solomon,VA,South,16,50
+Rivers Solomon,VA,South,17,50
+Rivers Solomon,VA,South,18,50
+Rivers Solomon,VA,South,19,50
+Rivers Solomon,VA,South,20,50
+Rivers Solomon,VA,South,21,50
+Rivers Solomon,VA,South,22,50
+Rivers Solomon,VA,South,23,50
+Rivers Solomon,VA,South,24,50
+Rivers Solomon,VA,South,25,50
+Rivers Solomon,VA,South,26,50
+Rivers Solomon,VA,South,27,50
+Rivers Solomon,VA,South,28,50
+Rivers Solomon,VA,South,29,50
+Rivers Solomon,VA,South,30,50
+Rivers Solomon,VA,South,31,50
+Rivers Solomon,VA,South,32,50
+Rivers Solomon,VA,South,33,50
+Rivers Solomon,VA,South,34,50
+Rivers Solomon,VA,South,35,50
+Rivers Solomon,VA,South,36,50
 Rivers Solomon,VA,South,37,391
 Rivers Solomon,VA,South,38,653
 Rivers Solomon,VA,South,39,410
@@ -7451,65 +7451,65 @@ Rivers Solomon,VA,South,78,1389
 Rivers Solomon,VA,South,79,1916
 Rivers Solomon,VA,South,80,1778
 Rivers Solomon,VA,South,81,134
-Robert Deane Pharr,NY,Northeast,1,0
-Robert Deane Pharr,NY,Northeast,2,0
-Robert Deane Pharr,NY,Northeast,3,0
-Robert Deane Pharr,NY,Northeast,4,0
-Robert Deane Pharr,NY,Northeast,5,0
-Robert Deane Pharr,NY,Northeast,6,0
-Robert Deane Pharr,NY,Northeast,7,0
-Robert Deane Pharr,NY,Northeast,8,0
-Robert Deane Pharr,NY,Northeast,9,0
-Robert Deane Pharr,NY,Northeast,10,0
-Robert Deane Pharr,NY,Northeast,11,0
-Robert Deane Pharr,NY,Northeast,12,0
-Robert Deane Pharr,NY,Northeast,13,0
-Robert Deane Pharr,NY,Northeast,14,0
-Robert Deane Pharr,NY,Northeast,15,0
-Robert Deane Pharr,NY,Northeast,16,0
-Robert Deane Pharr,NY,Northeast,17,0
-Robert Deane Pharr,NY,Northeast,18,0
-Robert Deane Pharr,NY,Northeast,19,0
-Robert Deane Pharr,NY,Northeast,20,0
-Robert Deane Pharr,NY,Northeast,21,0
-Robert Deane Pharr,NY,Northeast,22,0
-Robert Deane Pharr,NY,Northeast,23,0
-Robert Deane Pharr,NY,Northeast,24,0
-Robert Deane Pharr,NY,Northeast,25,0
-Robert Deane Pharr,NY,Northeast,26,0
-Robert Deane Pharr,NY,Northeast,27,0
-Robert Deane Pharr,NY,Northeast,28,0
-Robert Deane Pharr,NY,Northeast,29,0
-Robert Deane Pharr,NY,Northeast,30,0
-Robert Deane Pharr,NY,Northeast,31,0
-Robert Deane Pharr,NY,Northeast,32,0
-Robert Deane Pharr,NY,Northeast,33,0
-Robert Deane Pharr,NY,Northeast,34,0
-Robert Deane Pharr,NY,Northeast,35,0
-Robert Deane Pharr,NY,Northeast,36,0
-Robert Deane Pharr,NY,Northeast,37,0
-Robert Deane Pharr,NY,Northeast,38,0
-Robert Deane Pharr,NY,Northeast,39,0
-Robert Deane Pharr,NY,Northeast,40,0
-Robert Deane Pharr,NY,Northeast,41,0
-Robert Deane Pharr,NY,Northeast,42,0
-Robert Deane Pharr,NY,Northeast,43,0
-Robert Deane Pharr,NY,Northeast,44,0
-Robert Deane Pharr,NY,Northeast,45,0
-Robert Deane Pharr,NY,Northeast,46,0
-Robert Deane Pharr,NY,Northeast,47,0
-Robert Deane Pharr,NY,Northeast,48,0
-Robert Deane Pharr,NY,Northeast,49,0
-Robert Deane Pharr,NY,Northeast,50,0
-Robert Deane Pharr,NY,Northeast,51,0
-Robert Deane Pharr,NY,Northeast,52,0
-Robert Deane Pharr,NY,Northeast,53,0
-Robert Deane Pharr,NY,Northeast,54,0
-Robert Deane Pharr,NY,Northeast,55,0
-Robert Deane Pharr,NY,Northeast,56,0
-Robert Deane Pharr,NY,Northeast,57,0
-Robert Deane Pharr,NY,Northeast,58,0
-Robert Deane Pharr,NY,Northeast,59,0
+Robert Deane Pharr,NY,Northeast,1,50
+Robert Deane Pharr,NY,Northeast,2,50
+Robert Deane Pharr,NY,Northeast,3,50
+Robert Deane Pharr,NY,Northeast,4,50
+Robert Deane Pharr,NY,Northeast,5,50
+Robert Deane Pharr,NY,Northeast,6,50
+Robert Deane Pharr,NY,Northeast,7,50
+Robert Deane Pharr,NY,Northeast,8,50
+Robert Deane Pharr,NY,Northeast,9,50
+Robert Deane Pharr,NY,Northeast,10,50
+Robert Deane Pharr,NY,Northeast,11,50
+Robert Deane Pharr,NY,Northeast,12,50
+Robert Deane Pharr,NY,Northeast,13,50
+Robert Deane Pharr,NY,Northeast,14,50
+Robert Deane Pharr,NY,Northeast,15,50
+Robert Deane Pharr,NY,Northeast,16,50
+Robert Deane Pharr,NY,Northeast,17,50
+Robert Deane Pharr,NY,Northeast,18,50
+Robert Deane Pharr,NY,Northeast,19,50
+Robert Deane Pharr,NY,Northeast,20,50
+Robert Deane Pharr,NY,Northeast,21,50
+Robert Deane Pharr,NY,Northeast,22,50
+Robert Deane Pharr,NY,Northeast,23,50
+Robert Deane Pharr,NY,Northeast,24,50
+Robert Deane Pharr,NY,Northeast,25,50
+Robert Deane Pharr,NY,Northeast,26,50
+Robert Deane Pharr,NY,Northeast,27,50
+Robert Deane Pharr,NY,Northeast,28,50
+Robert Deane Pharr,NY,Northeast,29,50
+Robert Deane Pharr,NY,Northeast,30,50
+Robert Deane Pharr,NY,Northeast,31,50
+Robert Deane Pharr,NY,Northeast,32,50
+Robert Deane Pharr,NY,Northeast,33,50
+Robert Deane Pharr,NY,Northeast,34,50
+Robert Deane Pharr,NY,Northeast,35,50
+Robert Deane Pharr,NY,Northeast,36,50
+Robert Deane Pharr,NY,Northeast,37,50
+Robert Deane Pharr,NY,Northeast,38,50
+Robert Deane Pharr,NY,Northeast,39,50
+Robert Deane Pharr,NY,Northeast,40,50
+Robert Deane Pharr,NY,Northeast,41,50
+Robert Deane Pharr,NY,Northeast,42,50
+Robert Deane Pharr,NY,Northeast,43,50
+Robert Deane Pharr,NY,Northeast,44,50
+Robert Deane Pharr,NY,Northeast,45,50
+Robert Deane Pharr,NY,Northeast,46,50
+Robert Deane Pharr,NY,Northeast,47,50
+Robert Deane Pharr,NY,Northeast,48,50
+Robert Deane Pharr,NY,Northeast,49,50
+Robert Deane Pharr,NY,Northeast,50,50
+Robert Deane Pharr,NY,Northeast,51,50
+Robert Deane Pharr,NY,Northeast,52,50
+Robert Deane Pharr,NY,Northeast,53,50
+Robert Deane Pharr,NY,Northeast,54,50
+Robert Deane Pharr,NY,Northeast,55,50
+Robert Deane Pharr,NY,Northeast,56,50
+Robert Deane Pharr,NY,Northeast,57,50
+Robert Deane Pharr,NY,Northeast,58,50
+Robert Deane Pharr,NY,Northeast,59,50
 Robert Deane Pharr,NY,Northeast,60,19
 Robert Deane Pharr,NY,Northeast,61,50
 Robert Deane Pharr,NY,Northeast,62,39
@@ -7775,28 +7775,28 @@ Rudolph Fisher,DC,South,78,542
 Rudolph Fisher,DC,South,79,823
 Rudolph Fisher,DC,South,80,3164
 Rudolph Fisher,DC,South,81,127
-Safia Elhillo,MD,South,1,0
-Safia Elhillo,MD,South,2,0
-Safia Elhillo,MD,South,3,0
-Safia Elhillo,MD,South,4,0
-Safia Elhillo,MD,South,5,0
-Safia Elhillo,MD,South,6,0
-Safia Elhillo,MD,South,7,0
-Safia Elhillo,MD,South,8,0
-Safia Elhillo,MD,South,9,0
-Safia Elhillo,MD,South,10,0
-Safia Elhillo,MD,South,11,0
-Safia Elhillo,MD,South,12,0
-Safia Elhillo,MD,South,13,0
-Safia Elhillo,MD,South,14,0
-Safia Elhillo,MD,South,15,0
-Safia Elhillo,MD,South,16,0
-Safia Elhillo,MD,South,17,0
-Safia Elhillo,MD,South,18,0
-Safia Elhillo,MD,South,19,0
-Safia Elhillo,MD,South,20,0
-Safia Elhillo,MD,South,21,0
-Safia Elhillo,MD,South,22,0
+Safia Elhillo,MD,South,1,50
+Safia Elhillo,MD,South,2,50
+Safia Elhillo,MD,South,3,50
+Safia Elhillo,MD,South,4,50
+Safia Elhillo,MD,South,5,50
+Safia Elhillo,MD,South,6,50
+Safia Elhillo,MD,South,7,50
+Safia Elhillo,MD,South,8,50
+Safia Elhillo,MD,South,9,50
+Safia Elhillo,MD,South,10,50
+Safia Elhillo,MD,South,11,50
+Safia Elhillo,MD,South,12,50
+Safia Elhillo,MD,South,13,50
+Safia Elhillo,MD,South,14,50
+Safia Elhillo,MD,South,15,50
+Safia Elhillo,MD,South,16,50
+Safia Elhillo,MD,South,17,50
+Safia Elhillo,MD,South,18,50
+Safia Elhillo,MD,South,19,50
+Safia Elhillo,MD,South,20,50
+Safia Elhillo,MD,South,21,50
+Safia Elhillo,MD,South,22,50
 Safia Elhillo,MD,South,23,112
 Safia Elhillo,MD,South,24,911
 Safia Elhillo,MD,South,25,223
@@ -9398,10 +9398,10 @@ Victor LaValle,NY,Northeast,81,238
 W.E.B. Bois,MA,Northeast,1,2
 W.E.B. Bois,MA,Northeast,2,4
 W.E.B. Bois,MA,Northeast,3,1
-W.E.B. Bois,MA,Northeast,4,0
+W.E.B. Bois,MA,Northeast,4,50
 W.E.B. Bois,MA,Northeast,5,3
-W.E.B. Bois,MA,Northeast,6,0
-W.E.B. Bois,MA,Northeast,7,0
+W.E.B. Bois,MA,Northeast,6,50
+W.E.B. Bois,MA,Northeast,7,50
 W.E.B. Bois,MA,Northeast,8,3
 W.E.B. Bois,MA,Northeast,9,3
 W.E.B. Bois,MA,Northeast,10,2
@@ -9412,7 +9412,7 @@ W.E.B. Bois,MA,Northeast,14,3
 W.E.B. Bois,MA,Northeast,15,2
 W.E.B. Bois,MA,Northeast,16,2
 W.E.B. Bois,MA,Northeast,17,4
-W.E.B. Bois,MA,Northeast,18,0
+W.E.B. Bois,MA,Northeast,18,50
 W.E.B. Bois,MA,Northeast,19,2
 W.E.B. Bois,MA,Northeast,20,7
 W.E.B. Bois,MA,Northeast,21,28
@@ -9881,79 +9881,79 @@ William Melvin Kelley,NY,Northeast,78,505
 William Melvin Kelley,NY,Northeast,79,446
 William Melvin Kelley,NY,Northeast,80,630
 William Melvin Kelley,NY,Northeast,81,32
-Zakiya Dalila Harris,CT,Northeast,1,0
-Zakiya Dalila Harris,CT,Northeast,2,0
-Zakiya Dalila Harris,CT,Northeast,3,0
-Zakiya Dalila Harris,CT,Northeast,4,0
-Zakiya Dalila Harris,CT,Northeast,5,0
-Zakiya Dalila Harris,CT,Northeast,6,0
-Zakiya Dalila Harris,CT,Northeast,7,0
-Zakiya Dalila Harris,CT,Northeast,8,0
-Zakiya Dalila Harris,CT,Northeast,9,0
-Zakiya Dalila Harris,CT,Northeast,10,0
-Zakiya Dalila Harris,CT,Northeast,11,0
-Zakiya Dalila Harris,CT,Northeast,12,0
-Zakiya Dalila Harris,CT,Northeast,13,0
-Zakiya Dalila Harris,CT,Northeast,14,0
-Zakiya Dalila Harris,CT,Northeast,15,0
-Zakiya Dalila Harris,CT,Northeast,16,0
-Zakiya Dalila Harris,CT,Northeast,17,0
-Zakiya Dalila Harris,CT,Northeast,18,0
-Zakiya Dalila Harris,CT,Northeast,19,0
-Zakiya Dalila Harris,CT,Northeast,20,0
-Zakiya Dalila Harris,CT,Northeast,21,0
-Zakiya Dalila Harris,CT,Northeast,22,0
-Zakiya Dalila Harris,CT,Northeast,23,0
-Zakiya Dalila Harris,CT,Northeast,24,0
-Zakiya Dalila Harris,CT,Northeast,25,0
-Zakiya Dalila Harris,CT,Northeast,26,0
-Zakiya Dalila Harris,CT,Northeast,27,0
-Zakiya Dalila Harris,CT,Northeast,28,0
-Zakiya Dalila Harris,CT,Northeast,29,0
-Zakiya Dalila Harris,CT,Northeast,30,0
-Zakiya Dalila Harris,CT,Northeast,31,0
-Zakiya Dalila Harris,CT,Northeast,32,0
-Zakiya Dalila Harris,CT,Northeast,33,0
-Zakiya Dalila Harris,CT,Northeast,34,0
-Zakiya Dalila Harris,CT,Northeast,35,0
-Zakiya Dalila Harris,CT,Northeast,36,0
-Zakiya Dalila Harris,CT,Northeast,37,0
-Zakiya Dalila Harris,CT,Northeast,38,0
-Zakiya Dalila Harris,CT,Northeast,39,0
-Zakiya Dalila Harris,CT,Northeast,40,0
-Zakiya Dalila Harris,CT,Northeast,41,0
-Zakiya Dalila Harris,CT,Northeast,42,0
-Zakiya Dalila Harris,CT,Northeast,43,0
-Zakiya Dalila Harris,CT,Northeast,44,0
-Zakiya Dalila Harris,CT,Northeast,45,0
-Zakiya Dalila Harris,CT,Northeast,46,0
-Zakiya Dalila Harris,CT,Northeast,47,0
-Zakiya Dalila Harris,CT,Northeast,48,0
-Zakiya Dalila Harris,CT,Northeast,49,0
-Zakiya Dalila Harris,CT,Northeast,50,0
-Zakiya Dalila Harris,CT,Northeast,51,0
-Zakiya Dalila Harris,CT,Northeast,52,0
-Zakiya Dalila Harris,CT,Northeast,53,0
-Zakiya Dalila Harris,CT,Northeast,54,0
-Zakiya Dalila Harris,CT,Northeast,55,0
-Zakiya Dalila Harris,CT,Northeast,56,0
-Zakiya Dalila Harris,CT,Northeast,57,0
-Zakiya Dalila Harris,CT,Northeast,58,0
-Zakiya Dalila Harris,CT,Northeast,59,0
-Zakiya Dalila Harris,CT,Northeast,60,0
-Zakiya Dalila Harris,CT,Northeast,61,0
-Zakiya Dalila Harris,CT,Northeast,62,0
-Zakiya Dalila Harris,CT,Northeast,63,0
-Zakiya Dalila Harris,CT,Northeast,64,0
-Zakiya Dalila Harris,CT,Northeast,65,0
-Zakiya Dalila Harris,CT,Northeast,66,0
-Zakiya Dalila Harris,CT,Northeast,67,0
-Zakiya Dalila Harris,CT,Northeast,68,0
-Zakiya Dalila Harris,CT,Northeast,69,0
-Zakiya Dalila Harris,CT,Northeast,70,0
-Zakiya Dalila Harris,CT,Northeast,71,0
-Zakiya Dalila Harris,CT,Northeast,72,0
-Zakiya Dalila Harris,CT,Northeast,73,0
+Zakiya Dalila Harris,CT,Northeast,1,50
+Zakiya Dalila Harris,CT,Northeast,2,50
+Zakiya Dalila Harris,CT,Northeast,3,50
+Zakiya Dalila Harris,CT,Northeast,4,50
+Zakiya Dalila Harris,CT,Northeast,5,50
+Zakiya Dalila Harris,CT,Northeast,6,50
+Zakiya Dalila Harris,CT,Northeast,7,50
+Zakiya Dalila Harris,CT,Northeast,8,50
+Zakiya Dalila Harris,CT,Northeast,9,50
+Zakiya Dalila Harris,CT,Northeast,10,50
+Zakiya Dalila Harris,CT,Northeast,11,50
+Zakiya Dalila Harris,CT,Northeast,12,50
+Zakiya Dalila Harris,CT,Northeast,13,50
+Zakiya Dalila Harris,CT,Northeast,14,50
+Zakiya Dalila Harris,CT,Northeast,15,50
+Zakiya Dalila Harris,CT,Northeast,16,50
+Zakiya Dalila Harris,CT,Northeast,17,50
+Zakiya Dalila Harris,CT,Northeast,18,50
+Zakiya Dalila Harris,CT,Northeast,19,50
+Zakiya Dalila Harris,CT,Northeast,20,50
+Zakiya Dalila Harris,CT,Northeast,21,50
+Zakiya Dalila Harris,CT,Northeast,22,50
+Zakiya Dalila Harris,CT,Northeast,23,50
+Zakiya Dalila Harris,CT,Northeast,24,50
+Zakiya Dalila Harris,CT,Northeast,25,50
+Zakiya Dalila Harris,CT,Northeast,26,50
+Zakiya Dalila Harris,CT,Northeast,27,50
+Zakiya Dalila Harris,CT,Northeast,28,50
+Zakiya Dalila Harris,CT,Northeast,29,50
+Zakiya Dalila Harris,CT,Northeast,30,50
+Zakiya Dalila Harris,CT,Northeast,31,50
+Zakiya Dalila Harris,CT,Northeast,32,50
+Zakiya Dalila Harris,CT,Northeast,33,50
+Zakiya Dalila Harris,CT,Northeast,34,50
+Zakiya Dalila Harris,CT,Northeast,35,50
+Zakiya Dalila Harris,CT,Northeast,36,50
+Zakiya Dalila Harris,CT,Northeast,37,50
+Zakiya Dalila Harris,CT,Northeast,38,50
+Zakiya Dalila Harris,CT,Northeast,39,50
+Zakiya Dalila Harris,CT,Northeast,40,50
+Zakiya Dalila Harris,CT,Northeast,41,50
+Zakiya Dalila Harris,CT,Northeast,42,50
+Zakiya Dalila Harris,CT,Northeast,43,50
+Zakiya Dalila Harris,CT,Northeast,44,50
+Zakiya Dalila Harris,CT,Northeast,45,50
+Zakiya Dalila Harris,CT,Northeast,46,50
+Zakiya Dalila Harris,CT,Northeast,47,50
+Zakiya Dalila Harris,CT,Northeast,48,50
+Zakiya Dalila Harris,CT,Northeast,49,50
+Zakiya Dalila Harris,CT,Northeast,50,50
+Zakiya Dalila Harris,CT,Northeast,51,50
+Zakiya Dalila Harris,CT,Northeast,52,50
+Zakiya Dalila Harris,CT,Northeast,53,50
+Zakiya Dalila Harris,CT,Northeast,54,50
+Zakiya Dalila Harris,CT,Northeast,55,50
+Zakiya Dalila Harris,CT,Northeast,56,50
+Zakiya Dalila Harris,CT,Northeast,57,50
+Zakiya Dalila Harris,CT,Northeast,58,50
+Zakiya Dalila Harris,CT,Northeast,59,50
+Zakiya Dalila Harris,CT,Northeast,60,50
+Zakiya Dalila Harris,CT,Northeast,61,50
+Zakiya Dalila Harris,CT,Northeast,62,50
+Zakiya Dalila Harris,CT,Northeast,63,50
+Zakiya Dalila Harris,CT,Northeast,64,50
+Zakiya Dalila Harris,CT,Northeast,65,50
+Zakiya Dalila Harris,CT,Northeast,66,50
+Zakiya Dalila Harris,CT,Northeast,67,50
+Zakiya Dalila Harris,CT,Northeast,68,50
+Zakiya Dalila Harris,CT,Northeast,69,50
+Zakiya Dalila Harris,CT,Northeast,70,50
+Zakiya Dalila Harris,CT,Northeast,71,50
+Zakiya Dalila Harris,CT,Northeast,72,50
+Zakiya Dalila Harris,CT,Northeast,73,50
 Zakiya Dalila Harris,CT,Northeast,74,37
 Zakiya Dalila Harris,CT,Northeast,75,996
 Zakiya Dalila Harris,CT,Northeast,76,1195
