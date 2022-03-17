@@ -1,6 +1,6 @@
 state,code,region,year,population
-A. J. Verdelle,DC,South,1900,40
-A. J. Verdelle,DC,South,1901,40
+A. J. Verdelle,DC,South,1900,0
+A. J. Verdelle,DC,South,1901,0
 A. J. Verdelle,DC,South,1902,57
 A. J. Verdelle,DC,South,1903,96
 A. J. Verdelle,DC,South,1904,81
@@ -485,19 +485,19 @@ Alice Walker,GA,South,1952,34697
 Alice Walker,GA,South,1953,37795
 Alice Walker,GA,South,1954,54535
 Alice Walker,GA,South,1955,3026
-Ann Allen Shockley,KY,South,1956,40
-Ann Allen Shockley,KY,South,1957,40
-Ann Allen Shockley,KY,South,1958,40
-Ann Allen Shockley,KY,South,1959,40
-Ann Allen Shockley,KY,South,1960,40
-Ann Allen Shockley,KY,South,1961,40
-Ann Allen Shockley,KY,South,1962,40
-Ann Allen Shockley,KY,South,1963,40
-Ann Allen Shockley,KY,South,1964,40
-Ann Allen Shockley,KY,South,1965,40
-Ann Allen Shockley,KY,South,1966,40
-Ann Allen Shockley,KY,South,1967,40
-Ann Allen Shockley,KY,South,1968,40
+Ann Allen Shockley,KY,South,1956,0
+Ann Allen Shockley,KY,South,1957,0
+Ann Allen Shockley,KY,South,1958,0
+Ann Allen Shockley,KY,South,1959,0
+Ann Allen Shockley,KY,South,1960,0
+Ann Allen Shockley,KY,South,1961,0
+Ann Allen Shockley,KY,South,1962,0
+Ann Allen Shockley,KY,South,1963,0
+Ann Allen Shockley,KY,South,1964,0
+Ann Allen Shockley,KY,South,1965,0
+Ann Allen Shockley,KY,South,1966,0
+Ann Allen Shockley,KY,South,1967,0
+Ann Allen Shockley,KY,South,1968,0
 Ann Allen Shockley,KY,South,1969,248
 Ann Allen Shockley,KY,South,1970,65
 Ann Allen Shockley,KY,South,1971,63
@@ -1133,20 +1133,20 @@ Bebe Moore Campbell,PA,Northeast,2000,1561
 Bebe Moore Campbell,PA,Northeast,2001,3489
 Bebe Moore Campbell,PA,Northeast,2002,2900
 Bebe Moore Campbell,PA,Northeast,2003,121
-Bernice McFadden,NY,Northeast,2004,40
-Bernice McFadden,NY,Northeast,2005,40
-Bernice McFadden,NY,Northeast,2006,40
-Bernice McFadden,NY,Northeast,2007,40
-Bernice McFadden,NY,Northeast,2008,40
-Bernice McFadden,NY,Northeast,2009,40
-Bernice McFadden,NY,Northeast,2010,40
-Bernice McFadden,NY,Northeast,2011,40
-Bernice McFadden,NY,Northeast,2012,40
-Bernice McFadden,NY,Northeast,2013,40
-Bernice McFadden,NY,Northeast,2014,40
-Bernice McFadden,NY,Northeast,2015,40
-Bernice McFadden,NY,Northeast,2016,40
-Bernice McFadden,NY,Northeast,2017,40
+Bernice McFadden,NY,Northeast,2004,0
+Bernice McFadden,NY,Northeast,2005,0
+Bernice McFadden,NY,Northeast,2006,0
+Bernice McFadden,NY,Northeast,2007,0
+Bernice McFadden,NY,Northeast,2008,0
+Bernice McFadden,NY,Northeast,2009,0
+Bernice McFadden,NY,Northeast,2010,0
+Bernice McFadden,NY,Northeast,2011,0
+Bernice McFadden,NY,Northeast,2012,0
+Bernice McFadden,NY,Northeast,2013,0
+Bernice McFadden,NY,Northeast,2014,0
+Bernice McFadden,NY,Northeast,2015,0
+Bernice McFadden,NY,Northeast,2016,0
+Bernice McFadden,NY,Northeast,2017,0
 Bernice McFadden,NY,Northeast,2018,14
 Bernice McFadden,NY,Northeast,2019,113
 Bernice McFadden,NY,Northeast,1900,90
@@ -1214,66 +1214,66 @@ Bernice McFadden,NY,Northeast,1961,266
 Bernice McFadden,NY,Northeast,1962,338
 Bernice McFadden,NY,Northeast,1963,306
 Bernice McFadden,NY,Northeast,1964,10
-Brandon Taylor,AL,South,1965,40
-Brandon Taylor,AL,South,1966,40
-Brandon Taylor,AL,South,1967,40
-Brandon Taylor,AL,South,1968,40
-Brandon Taylor,AL,South,1969,40
-Brandon Taylor,AL,South,1970,40
-Brandon Taylor,AL,South,1971,40
-Brandon Taylor,AL,South,1972,40
-Brandon Taylor,AL,South,1973,40
-Brandon Taylor,AL,South,1974,40
-Brandon Taylor,AL,South,1975,40
-Brandon Taylor,AL,South,1976,40
-Brandon Taylor,AL,South,1977,40
-Brandon Taylor,AL,South,1978,40
-Brandon Taylor,AL,South,1979,40
-Brandon Taylor,AL,South,1980,40
-Brandon Taylor,AL,South,1981,40
-Brandon Taylor,AL,South,1982,40
-Brandon Taylor,AL,South,1983,40
-Brandon Taylor,AL,South,1984,40
-Brandon Taylor,AL,South,1985,40
-Brandon Taylor,AL,South,1986,40
-Brandon Taylor,AL,South,1987,40
-Brandon Taylor,AL,South,1988,40
-Brandon Taylor,AL,South,1989,40
-Brandon Taylor,AL,South,1990,40
-Brandon Taylor,AL,South,1991,40
-Brandon Taylor,AL,South,1992,40
-Brandon Taylor,AL,South,1993,40
-Brandon Taylor,AL,South,1994,40
-Brandon Taylor,AL,South,1995,40
-Brandon Taylor,AL,South,1996,40
-Brandon Taylor,AL,South,1997,40
-Brandon Taylor,AL,South,1998,40
-Brandon Taylor,AL,South,1999,40
-Brandon Taylor,AL,South,2000,40
-Brandon Taylor,AL,South,2001,40
-Brandon Taylor,AL,South,2002,40
-Brandon Taylor,AL,South,2003,40
-Brandon Taylor,AL,South,2004,40
-Brandon Taylor,AL,South,2005,40
-Brandon Taylor,AL,South,2006,40
-Brandon Taylor,AL,South,2007,40
-Brandon Taylor,AL,South,2008,40
-Brandon Taylor,AL,South,2009,40
-Brandon Taylor,AL,South,2010,40
-Brandon Taylor,AL,South,2011,40
-Brandon Taylor,AL,South,2012,40
-Brandon Taylor,AL,South,2013,40
-Brandon Taylor,AL,South,2014,40
-Brandon Taylor,AL,South,2015,40
-Brandon Taylor,AL,South,2016,40
-Brandon Taylor,AL,South,2017,40
-Brandon Taylor,AL,South,2018,40
-Brandon Taylor,AL,South,2019,40
-Brandon Taylor,AL,South,1950,40
-Brandon Taylor,AL,South,1951,40
-Brandon Taylor,AL,South,1952,40
-Brandon Taylor,AL,South,1953,40
-Brandon Taylor,AL,South,1954,40
+Brandon Taylor,AL,South,1965,0
+Brandon Taylor,AL,South,1966,0
+Brandon Taylor,AL,South,1967,0
+Brandon Taylor,AL,South,1968,0
+Brandon Taylor,AL,South,1969,0
+Brandon Taylor,AL,South,1970,0
+Brandon Taylor,AL,South,1971,0
+Brandon Taylor,AL,South,1972,0
+Brandon Taylor,AL,South,1973,0
+Brandon Taylor,AL,South,1974,0
+Brandon Taylor,AL,South,1975,0
+Brandon Taylor,AL,South,1976,0
+Brandon Taylor,AL,South,1977,0
+Brandon Taylor,AL,South,1978,0
+Brandon Taylor,AL,South,1979,0
+Brandon Taylor,AL,South,1980,0
+Brandon Taylor,AL,South,1981,0
+Brandon Taylor,AL,South,1982,0
+Brandon Taylor,AL,South,1983,0
+Brandon Taylor,AL,South,1984,0
+Brandon Taylor,AL,South,1985,0
+Brandon Taylor,AL,South,1986,0
+Brandon Taylor,AL,South,1987,0
+Brandon Taylor,AL,South,1988,0
+Brandon Taylor,AL,South,1989,0
+Brandon Taylor,AL,South,1990,0
+Brandon Taylor,AL,South,1991,0
+Brandon Taylor,AL,South,1992,0
+Brandon Taylor,AL,South,1993,0
+Brandon Taylor,AL,South,1994,0
+Brandon Taylor,AL,South,1995,0
+Brandon Taylor,AL,South,1996,0
+Brandon Taylor,AL,South,1997,0
+Brandon Taylor,AL,South,1998,0
+Brandon Taylor,AL,South,1999,0
+Brandon Taylor,AL,South,2000,0
+Brandon Taylor,AL,South,2001,0
+Brandon Taylor,AL,South,2002,0
+Brandon Taylor,AL,South,2003,0
+Brandon Taylor,AL,South,2004,0
+Brandon Taylor,AL,South,2005,0
+Brandon Taylor,AL,South,2006,0
+Brandon Taylor,AL,South,2007,0
+Brandon Taylor,AL,South,2008,0
+Brandon Taylor,AL,South,2009,0
+Brandon Taylor,AL,South,2010,0
+Brandon Taylor,AL,South,2011,0
+Brandon Taylor,AL,South,2012,0
+Brandon Taylor,AL,South,2013,0
+Brandon Taylor,AL,South,2014,0
+Brandon Taylor,AL,South,2015,0
+Brandon Taylor,AL,South,2016,0
+Brandon Taylor,AL,South,2017,0
+Brandon Taylor,AL,South,2018,0
+Brandon Taylor,AL,South,2019,0
+Brandon Taylor,AL,South,1950,0
+Brandon Taylor,AL,South,1951,0
+Brandon Taylor,AL,South,1952,0
+Brandon Taylor,AL,South,1953,0
+Brandon Taylor,AL,South,1954,0
 Brandon Taylor,AL,South,1955,2040
 Brandon Taylor,AL,South,1956,1715
 Brandon Taylor,AL,South,1957,3028
@@ -1295,21 +1295,21 @@ Brandon Taylor,AL,South,1972,1695
 Brandon Taylor,AL,South,1973,2026
 Brandon Taylor,AL,South,1974,1705
 Brandon Taylor,AL,South,1975,119
-Brit Bennett,CA,West,1976,40
-Brit Bennett,CA,West,1977,40
-Brit Bennett,CA,West,1978,40
-Brit Bennett,CA,West,1979,40
-Brit Bennett,CA,West,1980,40
-Brit Bennett,CA,West,1981,40
-Brit Bennett,CA,West,1982,40
-Brit Bennett,CA,West,1983,40
-Brit Bennett,CA,West,1984,40
-Brit Bennett,CA,West,1985,40
-Brit Bennett,CA,West,1986,40
-Brit Bennett,CA,West,1987,40
-Brit Bennett,CA,West,1988,40
-Brit Bennett,CA,West,1989,40
-Brit Bennett,CA,West,1990,40
+Brit Bennett,CA,West,1976,0
+Brit Bennett,CA,West,1977,0
+Brit Bennett,CA,West,1978,0
+Brit Bennett,CA,West,1979,0
+Brit Bennett,CA,West,1980,0
+Brit Bennett,CA,West,1981,0
+Brit Bennett,CA,West,1982,0
+Brit Bennett,CA,West,1983,0
+Brit Bennett,CA,West,1984,0
+Brit Bennett,CA,West,1985,0
+Brit Bennett,CA,West,1986,0
+Brit Bennett,CA,West,1987,0
+Brit Bennett,CA,West,1988,0
+Brit Bennett,CA,West,1989,0
+Brit Bennett,CA,West,1990,0
 Brit Bennett,CA,West,1991,913
 Brit Bennett,CA,West,1992,904
 Brit Bennett,CA,West,1993,918
@@ -3239,73 +3239,73 @@ Henry Dumas,IN,Midwest,1996,819
 Henry Dumas,IN,Midwest,1997,809
 Henry Dumas,IN,Midwest,1998,946
 Henry Dumas,IN,Midwest,1999,40
-Honore Fanonne Jeffers,TN,South,2000,40
-Honore Fanonne Jeffers,TN,South,2001,40
-Honore Fanonne Jeffers,TN,South,2002,40
-Honore Fanonne Jeffers,TN,South,2003,40
-Honore Fanonne Jeffers,TN,South,2004,40
-Honore Fanonne Jeffers,TN,South,2005,40
-Honore Fanonne Jeffers,TN,South,2006,40
-Honore Fanonne Jeffers,TN,South,2007,40
-Honore Fanonne Jeffers,TN,South,2008,40
-Honore Fanonne Jeffers,TN,South,2009,40
-Honore Fanonne Jeffers,TN,South,2010,40
-Honore Fanonne Jeffers,TN,South,2011,40
-Honore Fanonne Jeffers,TN,South,2012,40
-Honore Fanonne Jeffers,TN,South,2013,40
-Honore Fanonne Jeffers,TN,South,2014,40
-Honore Fanonne Jeffers,TN,South,2015,40
-Honore Fanonne Jeffers,TN,South,2016,40
-Honore Fanonne Jeffers,TN,South,2017,40
-Honore Fanonne Jeffers,TN,South,2018,40
-Honore Fanonne Jeffers,TN,South,2019,40
-Honore Fanonne Jeffers,TN,South,1900,40
-Honore Fanonne Jeffers,TN,South,1901,40
-Honore Fanonne Jeffers,TN,South,1902,40
-Honore Fanonne Jeffers,TN,South,1903,40
-Honore Fanonne Jeffers,TN,South,1904,40
-Honore Fanonne Jeffers,TN,South,1905,40
-Honore Fanonne Jeffers,TN,South,1906,40
-Honore Fanonne Jeffers,TN,South,1907,40
-Honore Fanonne Jeffers,TN,South,1908,40
-Honore Fanonne Jeffers,TN,South,1909,40
-Honore Fanonne Jeffers,TN,South,1910,40
-Honore Fanonne Jeffers,TN,South,1911,40
-Honore Fanonne Jeffers,TN,South,1912,40
-Honore Fanonne Jeffers,TN,South,1913,40
-Honore Fanonne Jeffers,TN,South,1914,40
-Honore Fanonne Jeffers,TN,South,1915,40
-Honore Fanonne Jeffers,TN,South,1916,40
-Honore Fanonne Jeffers,TN,South,1917,40
-Honore Fanonne Jeffers,TN,South,1918,40
-Honore Fanonne Jeffers,TN,South,1919,40
-Honore Fanonne Jeffers,TN,South,1920,40
-Honore Fanonne Jeffers,TN,South,1921,40
-Honore Fanonne Jeffers,TN,South,1922,40
-Honore Fanonne Jeffers,TN,South,1923,40
-Honore Fanonne Jeffers,TN,South,1924,40
-Honore Fanonne Jeffers,TN,South,1925,40
-Honore Fanonne Jeffers,TN,South,1926,40
-Honore Fanonne Jeffers,TN,South,1927,40
-Honore Fanonne Jeffers,TN,South,1928,40
-Honore Fanonne Jeffers,TN,South,1929,40
-Honore Fanonne Jeffers,TN,South,1930,40
-Honore Fanonne Jeffers,TN,South,1931,40
-Honore Fanonne Jeffers,TN,South,1932,40
-Honore Fanonne Jeffers,TN,South,1933,40
-Honore Fanonne Jeffers,TN,South,1934,40
-Honore Fanonne Jeffers,TN,South,1935,40
-Honore Fanonne Jeffers,TN,South,1936,40
-Honore Fanonne Jeffers,TN,South,1937,40
-Honore Fanonne Jeffers,TN,South,1938,40
-Honore Fanonne Jeffers,TN,South,1939,40
-Honore Fanonne Jeffers,TN,South,1940,40
-Honore Fanonne Jeffers,TN,South,1941,40
-Honore Fanonne Jeffers,TN,South,1942,40
-Honore Fanonne Jeffers,TN,South,1943,40
-Honore Fanonne Jeffers,TN,South,1944,40
-Honore Fanonne Jeffers,TN,South,1945,40
-Honore Fanonne Jeffers,TN,South,1946,40
+Honore Fanonne Jeffers,TN,South,2000,0
+Honore Fanonne Jeffers,TN,South,2001,0
+Honore Fanonne Jeffers,TN,South,2002,0
+Honore Fanonne Jeffers,TN,South,2003,0
+Honore Fanonne Jeffers,TN,South,2004,0
+Honore Fanonne Jeffers,TN,South,2005,0
+Honore Fanonne Jeffers,TN,South,2006,0
+Honore Fanonne Jeffers,TN,South,2007,0
+Honore Fanonne Jeffers,TN,South,2008,0
+Honore Fanonne Jeffers,TN,South,2009,0
+Honore Fanonne Jeffers,TN,South,2010,0
+Honore Fanonne Jeffers,TN,South,2011,0
+Honore Fanonne Jeffers,TN,South,2012,0
+Honore Fanonne Jeffers,TN,South,2013,0
+Honore Fanonne Jeffers,TN,South,2014,0
+Honore Fanonne Jeffers,TN,South,2015,0
+Honore Fanonne Jeffers,TN,South,2016,0
+Honore Fanonne Jeffers,TN,South,2017,0
+Honore Fanonne Jeffers,TN,South,2018,0
+Honore Fanonne Jeffers,TN,South,2019,0
+Honore Fanonne Jeffers,TN,South,1900,0
+Honore Fanonne Jeffers,TN,South,1901,0
+Honore Fanonne Jeffers,TN,South,1902,0
+Honore Fanonne Jeffers,TN,South,1903,0
+Honore Fanonne Jeffers,TN,South,1904,0
+Honore Fanonne Jeffers,TN,South,1905,0
+Honore Fanonne Jeffers,TN,South,1906,0
+Honore Fanonne Jeffers,TN,South,1907,0
+Honore Fanonne Jeffers,TN,South,1908,0
+Honore Fanonne Jeffers,TN,South,1909,0
+Honore Fanonne Jeffers,TN,South,1910,0
+Honore Fanonne Jeffers,TN,South,1911,0
+Honore Fanonne Jeffers,TN,South,1912,0
+Honore Fanonne Jeffers,TN,South,1913,0
+Honore Fanonne Jeffers,TN,South,1914,0
+Honore Fanonne Jeffers,TN,South,1915,0
+Honore Fanonne Jeffers,TN,South,1916,0
+Honore Fanonne Jeffers,TN,South,1917,0
+Honore Fanonne Jeffers,TN,South,1918,0
+Honore Fanonne Jeffers,TN,South,1919,0
+Honore Fanonne Jeffers,TN,South,1920,0
+Honore Fanonne Jeffers,TN,South,1921,0
+Honore Fanonne Jeffers,TN,South,1922,0
+Honore Fanonne Jeffers,TN,South,1923,0
+Honore Fanonne Jeffers,TN,South,1924,0
+Honore Fanonne Jeffers,TN,South,1925,0
+Honore Fanonne Jeffers,TN,South,1926,0
+Honore Fanonne Jeffers,TN,South,1927,0
+Honore Fanonne Jeffers,TN,South,1928,0
+Honore Fanonne Jeffers,TN,South,1929,0
+Honore Fanonne Jeffers,TN,South,1930,0
+Honore Fanonne Jeffers,TN,South,1931,0
+Honore Fanonne Jeffers,TN,South,1932,0
+Honore Fanonne Jeffers,TN,South,1933,0
+Honore Fanonne Jeffers,TN,South,1934,0
+Honore Fanonne Jeffers,TN,South,1935,0
+Honore Fanonne Jeffers,TN,South,1936,0
+Honore Fanonne Jeffers,TN,South,1937,0
+Honore Fanonne Jeffers,TN,South,1938,0
+Honore Fanonne Jeffers,TN,South,1939,0
+Honore Fanonne Jeffers,TN,South,1940,0
+Honore Fanonne Jeffers,TN,South,1941,0
+Honore Fanonne Jeffers,TN,South,1942,0
+Honore Fanonne Jeffers,TN,South,1943,0
+Honore Fanonne Jeffers,TN,South,1944,0
+Honore Fanonne Jeffers,TN,South,1945,0
+Honore Fanonne Jeffers,TN,South,1946,0
 Honore Fanonne Jeffers,TN,South,1947,267
 Honore Fanonne Jeffers,TN,South,1948,1564
 Honore Fanonne Jeffers,TN,South,1949,249
@@ -4372,7 +4372,7 @@ John A. Williams,DC,South,1929,12
 John A. Williams,DC,South,1930,11
 John A. Williams,DC,South,1931,7
 John A. Williams,DC,South,1932,8
-John A. Williams,DC,South,1933,40
+John A. Williams,DC,South,1933,0
 John Edgar Wideman,GA,South,1934,1255
 John Edgar Wideman,GA,South,1935,1056
 John Edgar Wideman,GA,South,1936,1122
@@ -4535,60 +4535,60 @@ John Oliver Killens,MA,Northeast,1972,287
 John Oliver Killens,MA,Northeast,1973,456
 John Oliver Killens,MA,Northeast,1974,516
 John Oliver Killens,MA,Northeast,1975,16
-Kaitlyn Greenidge,NY,Northeast,1976,40
-Kaitlyn Greenidge,NY,Northeast,1977,40
-Kaitlyn Greenidge,NY,Northeast,1978,40
-Kaitlyn Greenidge,NY,Northeast,1979,40
-Kaitlyn Greenidge,NY,Northeast,1980,40
-Kaitlyn Greenidge,NY,Northeast,1981,40
-Kaitlyn Greenidge,NY,Northeast,1982,40
-Kaitlyn Greenidge,NY,Northeast,1983,40
-Kaitlyn Greenidge,NY,Northeast,1984,40
-Kaitlyn Greenidge,NY,Northeast,1985,40
-Kaitlyn Greenidge,NY,Northeast,1986,40
-Kaitlyn Greenidge,NY,Northeast,1987,40
-Kaitlyn Greenidge,NY,Northeast,1988,40
-Kaitlyn Greenidge,NY,Northeast,1989,40
-Kaitlyn Greenidge,NY,Northeast,1990,40
-Kaitlyn Greenidge,NY,Northeast,1991,40
-Kaitlyn Greenidge,NY,Northeast,1992,40
-Kaitlyn Greenidge,NY,Northeast,1993,40
-Kaitlyn Greenidge,NY,Northeast,1994,40
-Kaitlyn Greenidge,NY,Northeast,1995,40
-Kaitlyn Greenidge,NY,Northeast,1996,40
-Kaitlyn Greenidge,NY,Northeast,1997,40
-Kaitlyn Greenidge,NY,Northeast,1998,40
-Kaitlyn Greenidge,NY,Northeast,1999,40
-Kaitlyn Greenidge,NY,Northeast,2000,40
-Kaitlyn Greenidge,NY,Northeast,2001,40
-Kaitlyn Greenidge,NY,Northeast,2002,40
-Kaitlyn Greenidge,NY,Northeast,2003,40
-Kaitlyn Greenidge,NY,Northeast,2004,40
-Kaitlyn Greenidge,NY,Northeast,2005,40
-Kaitlyn Greenidge,NY,Northeast,2006,40
-Kaitlyn Greenidge,NY,Northeast,2007,40
-Kaitlyn Greenidge,NY,Northeast,2008,40
-Kaitlyn Greenidge,NY,Northeast,2009,40
-Kaitlyn Greenidge,NY,Northeast,2010,40
-Kaitlyn Greenidge,NY,Northeast,2011,40
-Kaitlyn Greenidge,NY,Northeast,2012,40
-Kaitlyn Greenidge,NY,Northeast,2013,40
-Kaitlyn Greenidge,NY,Northeast,2014,40
-Kaitlyn Greenidge,NY,Northeast,2015,40
-Kaitlyn Greenidge,NY,Northeast,2016,40
-Kaitlyn Greenidge,NY,Northeast,2017,40
-Kaitlyn Greenidge,NY,Northeast,2018,40
-Kaitlyn Greenidge,NY,Northeast,2019,40
-Kaitlyn Greenidge,NY,Northeast,1900,40
-Kaitlyn Greenidge,NY,Northeast,1901,40
-Kaitlyn Greenidge,NY,Northeast,1902,40
-Kaitlyn Greenidge,NY,Northeast,1903,40
-Kaitlyn Greenidge,NY,Northeast,1904,40
-Kaitlyn Greenidge,NY,Northeast,1905,40
-Kaitlyn Greenidge,NY,Northeast,1906,40
-Kaitlyn Greenidge,NY,Northeast,1907,40
-Kaitlyn Greenidge,NY,Northeast,1908,40
-Kaitlyn Greenidge,NY,Northeast,1909,40
+Kaitlyn Greenidge,NY,Northeast,1976,0
+Kaitlyn Greenidge,NY,Northeast,1977,0
+Kaitlyn Greenidge,NY,Northeast,1978,0
+Kaitlyn Greenidge,NY,Northeast,1979,0
+Kaitlyn Greenidge,NY,Northeast,1980,0
+Kaitlyn Greenidge,NY,Northeast,1981,0
+Kaitlyn Greenidge,NY,Northeast,1982,0
+Kaitlyn Greenidge,NY,Northeast,1983,0
+Kaitlyn Greenidge,NY,Northeast,1984,0
+Kaitlyn Greenidge,NY,Northeast,1985,0
+Kaitlyn Greenidge,NY,Northeast,1986,0
+Kaitlyn Greenidge,NY,Northeast,1987,0
+Kaitlyn Greenidge,NY,Northeast,1988,0
+Kaitlyn Greenidge,NY,Northeast,1989,0
+Kaitlyn Greenidge,NY,Northeast,1990,0
+Kaitlyn Greenidge,NY,Northeast,1991,0
+Kaitlyn Greenidge,NY,Northeast,1992,0
+Kaitlyn Greenidge,NY,Northeast,1993,0
+Kaitlyn Greenidge,NY,Northeast,1994,0
+Kaitlyn Greenidge,NY,Northeast,1995,0
+Kaitlyn Greenidge,NY,Northeast,1996,0
+Kaitlyn Greenidge,NY,Northeast,1997,0
+Kaitlyn Greenidge,NY,Northeast,1998,0
+Kaitlyn Greenidge,NY,Northeast,1999,0
+Kaitlyn Greenidge,NY,Northeast,2000,0
+Kaitlyn Greenidge,NY,Northeast,2001,0
+Kaitlyn Greenidge,NY,Northeast,2002,0
+Kaitlyn Greenidge,NY,Northeast,2003,0
+Kaitlyn Greenidge,NY,Northeast,2004,0
+Kaitlyn Greenidge,NY,Northeast,2005,0
+Kaitlyn Greenidge,NY,Northeast,2006,0
+Kaitlyn Greenidge,NY,Northeast,2007,0
+Kaitlyn Greenidge,NY,Northeast,2008,0
+Kaitlyn Greenidge,NY,Northeast,2009,0
+Kaitlyn Greenidge,NY,Northeast,2010,0
+Kaitlyn Greenidge,NY,Northeast,2011,0
+Kaitlyn Greenidge,NY,Northeast,2012,0
+Kaitlyn Greenidge,NY,Northeast,2013,0
+Kaitlyn Greenidge,NY,Northeast,2014,0
+Kaitlyn Greenidge,NY,Northeast,2015,0
+Kaitlyn Greenidge,NY,Northeast,2016,0
+Kaitlyn Greenidge,NY,Northeast,2017,0
+Kaitlyn Greenidge,NY,Northeast,2018,0
+Kaitlyn Greenidge,NY,Northeast,2019,0
+Kaitlyn Greenidge,NY,Northeast,1900,0
+Kaitlyn Greenidge,NY,Northeast,1901,0
+Kaitlyn Greenidge,NY,Northeast,1902,0
+Kaitlyn Greenidge,NY,Northeast,1903,0
+Kaitlyn Greenidge,NY,Northeast,1904,0
+Kaitlyn Greenidge,NY,Northeast,1905,0
+Kaitlyn Greenidge,NY,Northeast,1906,0
+Kaitlyn Greenidge,NY,Northeast,1907,0
+Kaitlyn Greenidge,NY,Northeast,1908,0
+Kaitlyn Greenidge,NY,Northeast,1909,0
 Kaitlyn Greenidge,NY,Northeast,1910,58
 Kaitlyn Greenidge,NY,Northeast,1911,170
 Kaitlyn Greenidge,NY,Northeast,1912,155
@@ -4940,59 +4940,59 @@ Kiese Laymon,CA,West,2017,2603
 Kiese Laymon,CA,West,2018,2968
 Kiese Laymon,CA,West,2019,4238
 Kiese Laymon,CA,West,1900,187
-Kiley Reid,MO,Midwest,1901,40
-Kiley Reid,MO,Midwest,1902,40
-Kiley Reid,MO,Midwest,1903,40
-Kiley Reid,MO,Midwest,1904,40
-Kiley Reid,MO,Midwest,1905,40
-Kiley Reid,MO,Midwest,1906,40
-Kiley Reid,MO,Midwest,1907,40
-Kiley Reid,MO,Midwest,1908,40
-Kiley Reid,MO,Midwest,1909,40
-Kiley Reid,MO,Midwest,1910,40
-Kiley Reid,MO,Midwest,1911,40
-Kiley Reid,MO,Midwest,1912,40
-Kiley Reid,MO,Midwest,1913,40
-Kiley Reid,MO,Midwest,1914,40
-Kiley Reid,MO,Midwest,1915,40
-Kiley Reid,MO,Midwest,1916,40
-Kiley Reid,MO,Midwest,1917,40
-Kiley Reid,MO,Midwest,1918,40
-Kiley Reid,MO,Midwest,1919,40
-Kiley Reid,MO,Midwest,1920,40
-Kiley Reid,MO,Midwest,1921,40
-Kiley Reid,MO,Midwest,1922,40
-Kiley Reid,MO,Midwest,1923,40
-Kiley Reid,MO,Midwest,1924,40
-Kiley Reid,MO,Midwest,1925,40
-Kiley Reid,MO,Midwest,1926,40
-Kiley Reid,MO,Midwest,1927,40
-Kiley Reid,MO,Midwest,1928,40
-Kiley Reid,MO,Midwest,1929,40
-Kiley Reid,MO,Midwest,1930,40
-Kiley Reid,MO,Midwest,1931,40
-Kiley Reid,MO,Midwest,1932,40
-Kiley Reid,MO,Midwest,1933,40
-Kiley Reid,MO,Midwest,1934,40
-Kiley Reid,MO,Midwest,1935,40
-Kiley Reid,MO,Midwest,1936,40
-Kiley Reid,MO,Midwest,1937,40
-Kiley Reid,MO,Midwest,1938,40
-Kiley Reid,MO,Midwest,1939,40
-Kiley Reid,MO,Midwest,1940,40
-Kiley Reid,MO,Midwest,1941,40
-Kiley Reid,MO,Midwest,1942,40
-Kiley Reid,MO,Midwest,1943,40
-Kiley Reid,MO,Midwest,1944,40
-Kiley Reid,MO,Midwest,1945,40
-Kiley Reid,MO,Midwest,1946,40
-Kiley Reid,MO,Midwest,1947,40
-Kiley Reid,MO,Midwest,1948,40
-Kiley Reid,MO,Midwest,1949,40
-Kiley Reid,MO,Midwest,1950,40
-Kiley Reid,MO,Midwest,1951,40
-Kiley Reid,MO,Midwest,1952,40
-Kiley Reid,MO,Midwest,1953,40
+Kiley Reid,MO,Midwest,1901,0
+Kiley Reid,MO,Midwest,1902,0
+Kiley Reid,MO,Midwest,1903,0
+Kiley Reid,MO,Midwest,1904,0
+Kiley Reid,MO,Midwest,1905,0
+Kiley Reid,MO,Midwest,1906,0
+Kiley Reid,MO,Midwest,1907,0
+Kiley Reid,MO,Midwest,1908,0
+Kiley Reid,MO,Midwest,1909,0
+Kiley Reid,MO,Midwest,1910,0
+Kiley Reid,MO,Midwest,1911,0
+Kiley Reid,MO,Midwest,1912,0
+Kiley Reid,MO,Midwest,1913,0
+Kiley Reid,MO,Midwest,1914,0
+Kiley Reid,MO,Midwest,1915,0
+Kiley Reid,MO,Midwest,1916,0
+Kiley Reid,MO,Midwest,1917,0
+Kiley Reid,MO,Midwest,1918,0
+Kiley Reid,MO,Midwest,1919,0
+Kiley Reid,MO,Midwest,1920,0
+Kiley Reid,MO,Midwest,1921,0
+Kiley Reid,MO,Midwest,1922,0
+Kiley Reid,MO,Midwest,1923,0
+Kiley Reid,MO,Midwest,1924,0
+Kiley Reid,MO,Midwest,1925,0
+Kiley Reid,MO,Midwest,1926,0
+Kiley Reid,MO,Midwest,1927,0
+Kiley Reid,MO,Midwest,1928,0
+Kiley Reid,MO,Midwest,1929,0
+Kiley Reid,MO,Midwest,1930,0
+Kiley Reid,MO,Midwest,1931,0
+Kiley Reid,MO,Midwest,1932,0
+Kiley Reid,MO,Midwest,1933,0
+Kiley Reid,MO,Midwest,1934,0
+Kiley Reid,MO,Midwest,1935,0
+Kiley Reid,MO,Midwest,1936,0
+Kiley Reid,MO,Midwest,1937,0
+Kiley Reid,MO,Midwest,1938,0
+Kiley Reid,MO,Midwest,1939,0
+Kiley Reid,MO,Midwest,1940,0
+Kiley Reid,MO,Midwest,1941,0
+Kiley Reid,MO,Midwest,1942,0
+Kiley Reid,MO,Midwest,1943,0
+Kiley Reid,MO,Midwest,1944,0
+Kiley Reid,MO,Midwest,1945,0
+Kiley Reid,MO,Midwest,1946,0
+Kiley Reid,MO,Midwest,1947,0
+Kiley Reid,MO,Midwest,1948,0
+Kiley Reid,MO,Midwest,1949,0
+Kiley Reid,MO,Midwest,1950,0
+Kiley Reid,MO,Midwest,1951,0
+Kiley Reid,MO,Midwest,1952,0
+Kiley Reid,MO,Midwest,1953,0
 Kiley Reid,MO,Midwest,1954,245
 Kiley Reid,MO,Midwest,1955,4996
 Kiley Reid,MO,Midwest,1956,10331
@@ -5831,64 +5831,64 @@ Melvin Dixon,NJ,Northeast,1948,136
 Melvin Dixon,NJ,Northeast,1949,188
 Melvin Dixon,NJ,Northeast,1950,253
 Melvin Dixon,NJ,Northeast,1951,18
-Morgan Jerkins,IA,Midwest,1952,40
-Morgan Jerkins,IA,Midwest,1953,40
-Morgan Jerkins,IA,Midwest,1954,40
-Morgan Jerkins,IA,Midwest,1955,40
-Morgan Jerkins,IA,Midwest,1956,40
-Morgan Jerkins,IA,Midwest,1957,40
-Morgan Jerkins,IA,Midwest,1958,40
-Morgan Jerkins,IA,Midwest,1959,40
-Morgan Jerkins,IA,Midwest,1960,40
-Morgan Jerkins,IA,Midwest,1961,40
-Morgan Jerkins,IA,Midwest,1962,40
-Morgan Jerkins,IA,Midwest,1963,40
-Morgan Jerkins,IA,Midwest,1964,40
-Morgan Jerkins,IA,Midwest,1965,40
-Morgan Jerkins,IA,Midwest,1966,40
-Morgan Jerkins,IA,Midwest,1967,40
-Morgan Jerkins,IA,Midwest,1968,40
-Morgan Jerkins,IA,Midwest,1969,40
-Morgan Jerkins,IA,Midwest,1970,40
-Morgan Jerkins,IA,Midwest,1971,40
-Morgan Jerkins,IA,Midwest,1972,40
-Morgan Jerkins,IA,Midwest,1973,40
-Morgan Jerkins,IA,Midwest,1974,40
-Morgan Jerkins,IA,Midwest,1975,40
-Morgan Jerkins,IA,Midwest,1976,40
-Morgan Jerkins,IA,Midwest,1977,40
-Morgan Jerkins,IA,Midwest,1978,40
-Morgan Jerkins,IA,Midwest,1979,40
-Morgan Jerkins,IA,Midwest,1980,40
-Morgan Jerkins,IA,Midwest,1981,40
-Morgan Jerkins,IA,Midwest,1982,40
-Morgan Jerkins,IA,Midwest,1983,40
-Morgan Jerkins,IA,Midwest,1984,40
-Morgan Jerkins,IA,Midwest,1985,40
-Morgan Jerkins,IA,Midwest,1986,40
-Morgan Jerkins,IA,Midwest,1987,40
-Morgan Jerkins,IA,Midwest,1988,40
-Morgan Jerkins,IA,Midwest,1989,40
-Morgan Jerkins,IA,Midwest,1990,40
-Morgan Jerkins,IA,Midwest,1991,40
-Morgan Jerkins,IA,Midwest,1992,40
-Morgan Jerkins,IA,Midwest,1993,40
-Morgan Jerkins,IA,Midwest,1994,40
-Morgan Jerkins,IA,Midwest,1995,40
-Morgan Jerkins,IA,Midwest,1996,40
-Morgan Jerkins,IA,Midwest,1997,40
-Morgan Jerkins,IA,Midwest,1998,40
-Morgan Jerkins,IA,Midwest,1999,40
-Morgan Jerkins,IA,Midwest,2000,40
-Morgan Jerkins,IA,Midwest,2001,40
-Morgan Jerkins,IA,Midwest,2002,40
-Morgan Jerkins,IA,Midwest,2003,40
-Morgan Jerkins,IA,Midwest,2004,40
-Morgan Jerkins,IA,Midwest,2005,40
-Morgan Jerkins,IA,Midwest,2006,40
-Morgan Jerkins,IA,Midwest,2007,40
-Morgan Jerkins,IA,Midwest,2008,40
-Morgan Jerkins,IA,Midwest,2009,40
+Morgan Jerkins,IA,Midwest,1952,0
+Morgan Jerkins,IA,Midwest,1953,0
+Morgan Jerkins,IA,Midwest,1954,0
+Morgan Jerkins,IA,Midwest,1955,0
+Morgan Jerkins,IA,Midwest,1956,0
+Morgan Jerkins,IA,Midwest,1957,0
+Morgan Jerkins,IA,Midwest,1958,0
+Morgan Jerkins,IA,Midwest,1959,0
+Morgan Jerkins,IA,Midwest,1960,0
+Morgan Jerkins,IA,Midwest,1961,0
+Morgan Jerkins,IA,Midwest,1962,0
+Morgan Jerkins,IA,Midwest,1963,0
+Morgan Jerkins,IA,Midwest,1964,0
+Morgan Jerkins,IA,Midwest,1965,0
+Morgan Jerkins,IA,Midwest,1966,0
+Morgan Jerkins,IA,Midwest,1967,0
+Morgan Jerkins,IA,Midwest,1968,0
+Morgan Jerkins,IA,Midwest,1969,0
+Morgan Jerkins,IA,Midwest,1970,0
+Morgan Jerkins,IA,Midwest,1971,0
+Morgan Jerkins,IA,Midwest,1972,0
+Morgan Jerkins,IA,Midwest,1973,0
+Morgan Jerkins,IA,Midwest,1974,0
+Morgan Jerkins,IA,Midwest,1975,0
+Morgan Jerkins,IA,Midwest,1976,0
+Morgan Jerkins,IA,Midwest,1977,0
+Morgan Jerkins,IA,Midwest,1978,0
+Morgan Jerkins,IA,Midwest,1979,0
+Morgan Jerkins,IA,Midwest,1980,0
+Morgan Jerkins,IA,Midwest,1981,0
+Morgan Jerkins,IA,Midwest,1982,0
+Morgan Jerkins,IA,Midwest,1983,0
+Morgan Jerkins,IA,Midwest,1984,0
+Morgan Jerkins,IA,Midwest,1985,0
+Morgan Jerkins,IA,Midwest,1986,0
+Morgan Jerkins,IA,Midwest,1987,0
+Morgan Jerkins,IA,Midwest,1988,0
+Morgan Jerkins,IA,Midwest,1989,0
+Morgan Jerkins,IA,Midwest,1990,0
+Morgan Jerkins,IA,Midwest,1991,0
+Morgan Jerkins,IA,Midwest,1992,0
+Morgan Jerkins,IA,Midwest,1993,0
+Morgan Jerkins,IA,Midwest,1994,0
+Morgan Jerkins,IA,Midwest,1995,0
+Morgan Jerkins,IA,Midwest,1996,0
+Morgan Jerkins,IA,Midwest,1997,0
+Morgan Jerkins,IA,Midwest,1998,0
+Morgan Jerkins,IA,Midwest,1999,0
+Morgan Jerkins,IA,Midwest,2000,0
+Morgan Jerkins,IA,Midwest,2001,0
+Morgan Jerkins,IA,Midwest,2002,0
+Morgan Jerkins,IA,Midwest,2003,0
+Morgan Jerkins,IA,Midwest,2004,0
+Morgan Jerkins,IA,Midwest,2005,0
+Morgan Jerkins,IA,Midwest,2006,0
+Morgan Jerkins,IA,Midwest,2007,0
+Morgan Jerkins,IA,Midwest,2008,0
+Morgan Jerkins,IA,Midwest,2009,0
 Morgan Jerkins,IA,Midwest,2010,35
 Morgan Jerkins,IA,Midwest,2011,398
 Morgan Jerkins,IA,Midwest,2012,641
