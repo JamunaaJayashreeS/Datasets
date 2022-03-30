@@ -1,58 +1,57 @@
-state,code,region,year,population
-A. J. Verdelle,DC,South,1900,0
-A. J. Verdelle,DC,South,1901,0
-A. J. Verdelle,DC,South,1902,57
-A. J. Verdelle,DC,South,1903,96
-A. J. Verdelle,DC,South,1904,81
-A. J. Verdelle,DC,South,1905,53
-Al Young,MS,South,1900,314
-Al Young,MS,South,1901,338
-Al Young,MS,South,1902,333
-Al Young,MS,South,1903,340
-Al Young,MS,South,1904,390
-Al Young,MS,South,1905,316
-Alex Haley,NY,Northeast,1900,23590
-Alex Haley,NY,Northeast,1901,24985
-Alex Haley,NY,Northeast,1902,21724
-Alex Haley,NY,Northeast,1903,35385
-Alex Haley,NY,Northeast,1904,19266
-Alex Haley,NY,Northeast,1905,19501
-Alice Childress,SC,South,1900,525
-Alice Childress,SC,South,1901,770
-Alice Childress,SC,South,1902,729
-Alice Childress,SC,South,1903,1191
-Alice Childress,SC,South,1904,605
-Alice Childress,SC,South,1905,691
+A. J. Verdelle,DC,South,1900,600
+A. J. Verdelle,DC,South,1901,600
+A. J. Verdelle,DC,South,1902,600
+A. J. Verdelle,DC,South,1903,600
+A. J. Verdelle,DC,South,1904,600
+A. J. Verdelle,DC,South,1905,600
+Al Young,MS,South,1900,600
+Al Young,MS,South,1901,600
+Al Young,MS,South,1902,600
+Al Young,MS,South,1903,600
+Al Young,MS,South,1904,600
+Al Young,MS,South,1905,600
+Alex Haley,NY,Northeast,1900,1000
+Alex Haley,NY,Northeast,1901,1000
+Alex Haley,NY,Northeast,1902,1000
+Alex Haley,NY,Northeast,1903,1000
+Alex Haley,NY,Northeast,1904,1000
+Alex Haley,NY,Northeast,1905,1000
+Alice Childress,SC,South,1900,1000
+Alice Childress,SC,South,1901,1000
+Alice Childress,SC,South,1902,1000
+Alice Childress,SC,South,1903,1000
+Alice Childress,SC,South,1904,1000
+Alice Childress,SC,South,1905,1000
 Alice Randall,MI,Midwest,1900,633
 Alice Randall,MI,Midwest,1901,623
 Alice Randall,MI,Midwest,1902,506
 Alice Randall,MI,Midwest,1903,542
 Alice Randall,MI,Midwest,1904,585
 Alice Randall,MI,Midwest,1905,486
-Alice Walker,GA,South,1900,27678
-Alice Walker,GA,South,1901,28817
-Alice Walker,GA,South,1902,34807
-Alice Walker,GA,South,1903,36738
-Alice Walker,GA,South,1904,39011
-Alice Walker,GA,South,1905,36976
-Ann Allen Shockley,KY,South,1900,0
-Ann Allen Shockley,KY,South,1901,0
-Ann Allen Shockley,KY,South,1902,0
-Ann Allen Shockley,KY,South,1903,0
-Ann Allen Shockley,KY,South,1904,0
-Ann Allen Shockley,KY,South,1905,0
+Alice Walker,GA,South,1900,1500
+Alice Walker,GA,South,1901,1500
+Alice Walker,GA,South,1902,1500
+Alice Walker,GA,South,1903,1500
+Alice Walker,GA,South,1904,1500
+Alice Walker,GA,South,1905,1500
+Ann Allen Shockley,KY,South,1900,400
+Ann Allen Shockley,KY,South,1901,400
+Ann Allen Shockley,KY,South,1902,400
+Ann Allen Shockley,KY,South,1903,400
+Ann Allen Shockley,KY,South,1904,400
+Ann Allen Shockley,KY,South,1905,400
 Ann Petry,CT,Northeast,1900,729
 Ann Petry,CT,Northeast,1901,627
 Ann Petry,CT,Northeast,1902,806
 Ann Petry,CT,Northeast,1903,1061
 Ann Petry,CT,Northeast,1904,929
 Ann Petry,CT,Northeast,1905,831
-Anthony Grooms,VA,South,1900,63
-Anthony Grooms,VA,South,1901,49
-Anthony Grooms,VA,South,1902,99
-Anthony Grooms,VA,South,1903,75
-Anthony Grooms,VA,South,1904,88
-Anthony Grooms,VA,South,1905,52
+Anthony Grooms,VA,South,1900,630
+Anthony Grooms,VA,South,1901,490
+Anthony Grooms,VA,South,1902,490
+Anthony Grooms,VA,South,1903,490
+Anthony Grooms,VA,South,1904,490
+Anthony Grooms,VA,South,1905,490
 Arna Bontemps,LA,South,1900,1156
 Arna Bontemps,LA,South,1901,1055
 Arna Bontemps,LA,South,1902,1194
@@ -60,7 +59,7 @@ Arna Bontemps,LA,South,1903,1698
 Arna Bontemps,LA,South,1904,1284
 Arna Bontemps,LA,South,1905,1089
 Attica Locke,TX,South,1900,609
-Attica Locke,TX,South,1901,548
+Attica Locke,TX,South,1901,54
 Attica Locke,TX,South,1902,671
 Attica Locke,TX,South,1903,1650
 Attica Locke,TX,South,1904,709
